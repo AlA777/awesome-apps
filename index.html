@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Awesome Apps // Cyberdeck</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <canvas id="matrix"></canvas>
+
+  <main class="shell">
+    <header class="hero">
+      <p class="kicker">ALA777 CYBERDECK</p>
+      <h1>Awesome Apps</h1>
+      <p class="subtitle">
+        Automated catalog of Android apps, hacking tools, Linux artifacts,
+        Termux magic and strange repositories.
+      </p>
+    </header>
+
+    <section class="controls">
+      <input id="search" type="search" placeholder="Search apps, topics, languages...">
+
+      <select id="sort">
+        <option value="stars">Sort by stars</option>
+        <option value="name">Sort by name</option>
+        <option value="language">Sort by language</option>
+      </select>
+    </section>
+
+    <nav id="filters" class="filters"></nav>
+    <section id="stats" class="stats"></section>
+    <section id="apps" class="grid"></section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
