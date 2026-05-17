@@ -1,1 +1,176 @@
-Update starred repositories
+name: Update Awesome Apps
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-awesome-apps:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate categorized README
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: AlA777
+        run: |
+          cat > generate_readme.py << 'PY'
+          import json
+          import re
+          import subprocess
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          USERNAME = "AlA777"
+          CONFIG_FILE = Path("categories.yml")
+          FALLBACK_CATEGORY = "Other Interesting Tools"
+
+          def parse_categories(path):
+              categories = {}
+              current = None
+
+              if not path.exists():
+                  return categories
+
+              for raw_line in path.read_text(encoding="utf-8").splitlines():
+                  line = raw_line.rstrip()
+                  stripped = line.strip()
+
+                  if not stripped or stripped.startswith("#"):
+                      continue
+
+                  if not line.startswith(" ") and stripped.endswith(":"):
+                      current = stripped[:-1].strip().strip('"\'')
+                      categories[current] = []
+                      continue
+
+                  if current and stripped.startswith("-"):
+                      keyword = stripped[1:].strip().strip('"\'')
+                      if keyword:
+                          categories[current].append(keyword.lower())
+
+              return categories
+
+          def slugify(text):
+              text = text.lower()
+              text = text.replace("/", " ")
+              text = re.sub(r"[^a-z0-9]+", "-", text)
+              return text.strip("-")
+
+          def gh_api(path):
+              result = subprocess.check_output(
+                  ["gh", "api", "--paginate", path],
+                  text=True
+              )
+              chunks = []
+              decoder = json.JSONDecoder()
+              idx = 0
+              while idx < len(result):
+                  while idx < len(result) and result[idx].isspace():
+                      idx += 1
+                  if idx >= len(result):
+                      break
+                  obj, end = decoder.raw_decode(result, idx)
+                  chunks.extend(obj if isinstance(obj, list) else [obj])
+                  idx = end
+              return chunks
+
+          categories = parse_categories(CONFIG_FILE)
+
+          if not categories:
+              categories = {
+                  "Security / Hacking": ["security", "hacking", "pentest", "kali", "nethunter", "osint"],
+                  "Network / ONVIF / IP Cameras": ["network", "onvif", "rtsp", "camera", "hikvision", "dahua", "nvr"],
+                  "Termux / Android Linux": ["termux", "android", "apk", "fdroid", "f-droid", "proot"],
+                  "Media / Audio / Video": ["audio", "video", "music", "youtube", "yt-dlp", "ffmpeg"],
+                  "System Tools": ["system", "utility", "windows", "linux", "debian", "proxmox", "hardware"],
+                  "Development / Coding": ["code", "coding", "python", "javascript", "typescript", "go", "rust", "api", "cli"],
+              }
+
+          repos = gh_api(f"users/{USERNAME}/starred")
+
+          bucketed = {name: [] for name in categories}
+          bucketed[FALLBACK_CATEGORY] = []
+
+          for repo in repos:
+              name = repo.get("full_name", "")
+              desc = repo.get("description") or ""
+              topics = " ".join(repo.get("topics") or [])
+              language = repo.get("language") or ""
+              text = f"{name} {desc} {topics} {language}".lower()
+
+              placed = False
+              for category, keywords in categories.items():
+                  if any(keyword in text for keyword in keywords):
+                      bucketed[category].append(repo)
+                      placed = True
+                      break
+
+              if not placed:
+                  bucketed[FALLBACK_CATEGORY].append(repo)
+
+          now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+
+          lines = []
+          lines.append("# Awesome Apps")
+          lines.append("")
+          lines.append("> Automaticky generovaný katalog zajímavých aplikací, nástrojů a repozitářů.")
+          lines.append("")
+          lines.append(f"Last update: **{now}**")
+          lines.append("")
+          lines.append("## Categories")
+          lines.append("")
+
+          for category, repos_in_category in bucketed.items():
+              if repos_in_category:
+                  lines.append(f"- [{category}](#{slugify(category)}) — {len(repos_in_category)}")
+
+          lines.append("")
+
+          for category, repos_in_category in bucketed.items():
+              if not repos_in_category:
+                  continue
+
+              lines.append(f"## {category}")
+              lines.append("")
+
+              repos_in_category.sort(key=lambda r: r.get("full_name", "").lower())
+
+              for repo in repos_in_category:
+                  full_name = repo.get("full_name", "unknown/repo")
+                  url = repo.get("html_url", "")
+                  desc = repo.get("description") or "No description"
+                  stars = repo.get("stargazers_count", 0)
+                  lang = repo.get("language") or "Unknown"
+                  topics = repo.get("topics") or []
+
+                  topic_text = ""
+                  if topics:
+                      topic_text = " — `" + "`, `".join(topics[:6]) + "`"
+
+                  lines.append(
+                      f"- [{full_name}]({url}) — {desc} "
+                      f"⭐ {stars} — `{lang}`{topic_text}"
+                  )
+
+              lines.append("")
+
+          Path("README.md").write_text("\n".join(lines).strip() + "\n", encoding="utf-8")
+          PY
+
+          python3 generate_readme.py
+
+      - name: Commit README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Update awesome apps catalog"
+          git push
