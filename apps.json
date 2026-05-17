@@ -1,0 +1,838 @@
+[
+  {
+    "name": "eltonkola/opencamera",
+    "url": "https://github.com/eltonkola/opencamera",
+    "description": "ip camera app for android (using onvif sdk)",
+    "stars": 58,
+    "language": "Kotlin",
+    "category": "Network / ONVIF / IP Cameras",
+    "topics": [],
+    "updated_at": "2026-05-15T20:53:13Z"
+  },
+  {
+    "name": "mustaffxx/usb-host-shield-mouse",
+    "url": "https://github.com/mustaffxx/usb-host-shield-mouse",
+    "description": "A simply trick for interpret a 16-bit/axis mouse using USB_Host_Shield_2.0. (Logitech G502)",
+    "stars": 74,
+    "language": "C++",
+    "category": "Other Interesting Tools",
+    "topics": [
+      "logitech",
+      "logitech-g502",
+      "mouse",
+      "usb-host",
+      "usb-host-shield"
+    ],
+    "updated_at": "2026-04-23T15:12:00Z"
+  },
+  {
+    "name": "mohammadmahdi-termux/hackCCTV",
+    "url": "https://github.com/mohammadmahdi-termux/hackCCTV",
+    "description": "Hackcctv",
+    "stars": 295,
+    "language": "Python",
+    "category": "Network / ONVIF / IP Cameras",
+    "topics": [
+      "cam-hackers",
+      "camera",
+      "cameras",
+      "camerascanner",
+      "cctv",
+      "cctv-cameras",
+      "cctv-detection",
+      "hack",
+      "hack-cameras",
+      "hackcctv",
+      "python",
+      "termux"
+    ],
+    "updated_at": "2026-05-16T11:06:24Z"
+  },
+  {
+    "name": "DISTRHO/Cardinal",
+    "url": "https://github.com/DISTRHO/Cardinal",
+    "description": "Virtual modular synthesizer plugin",
+    "stars": 3039,
+    "language": "C++",
+    "category": "Media / Audio / Video",
+    "topics": [
+      "audio",
+      "eurorack",
+      "lv2-plugin",
+      "plugin",
+      "vcvrack",
+      "vst-plugin"
+    ],
+    "updated_at": "2026-05-17T17:09:27Z"
+  },
+  {
+    "name": "Dreamlinerm/Netflix-Prime-Auto-Skip",
+    "url": "https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip",
+    "description": "Automatically skip Ads, Intros, Credits, etc. on all major Streaming services",
+    "stars": 545,
+    "language": "JavaScript",
+    "category": "Termux / Android Linux",
+    "topics": [
+      "adblock",
+      "amazon",
+      "chrome",
+      "chrome-extension",
+      "crunchyroll",
+      "disney",
+      "fenix",
+      "firefox",
+      "firefox-addon",
+      "firefox-extension",
+      "firefox-extensions",
+      "firefox-for-android",
+      "firefox-mobile",
+      "hbo",
+      "max",
+      "netflix",
+      "primevideo",
+      "webextension"
+    ],
+    "updated_at": "2026-05-13T18:49:39Z"
+  },
+  {
+    "name": "permissionlesstech/bitchat-android",
+    "url": "https://github.com/permissionlesstech/bitchat-android",
+    "description": "bluetooth mesh chat, IRC vibes",
+    "stars": 5451,
+    "language": "Kotlin",
+    "category": "Termux / Android Linux",
+    "topics": [],
+    "updated_at": "2026-05-17T07:53:28Z"
+  },
+  {
+    "name": "shadps4-emu/shadPS4-launcher",
+    "url": "https://github.com/shadps4-emu/shadPS4-launcher",
+    "description": "Launcher of the ShadPS4 emulator",
+    "stars": 46,
+    "language": "TypeScript",
+    "category": "Development / Coding",
+    "topics": [],
+    "updated_at": "2026-05-10T04:49:22Z"
+  },
+  {
+    "name": "kimocoder/kimocoder",
+    "url": "https://github.com/kimocoder/kimocoder",
+    "description": "No description",
+    "stars": 28,
+    "language": "Unknown",
+    "category": "Development / Coding",
+    "topics": [],
+    "updated_at": "2026-05-03T04:03:22Z"
+  },
+  {
+    "name": "Lhshdhd/https-github.com-kimocoder-wifite2",
+    "url": "https://github.com/Lhshdhd/https-github.com-kimocoder-wifite2",
+    "description": "https://github.com/kimocoder/wifite2",
+    "stars": 3,
+    "language": "Unknown",
+    "category": "Security / Hacking",
+    "topics": [],
+    "updated_at": "2025-04-23T07:52:42Z"
+  },
+  {
+    "name": "Phamospac/rtl8188eus",
+    "url": "https://github.com/Phamospac/rtl8188eus",
+    "description": "[![GitHub issues](https://img.shields.io/github/issues/kimocoder/rtl8188eus.svg)](https://github.com/kimocoder/rtl8188eus/issues) [![GitHub forks](https://img.shields.io/github/forks/kimocoder/rtl8188eus.svg)](https://github.com/kimocoder/rtl8188eus/network) [![GitHub stars](https://img.shields.io/github/stars/kimocoder/rtl8188eus.svg)](https://github.com/kimocoder/rtl8188eus/stargazers)",
+    "stars": 2,
+    "language": "Unknown",
+    "category": "Development / Coding",
+    "topics": [],
+    "updated_at": "2025-10-06T07:08:08Z"
+  },
+  {
+    "name": "immich-app/immich",
+    "url": "https://github.com/immich-app/immich",
+    "description": "High performance self-hosted photo and video management solution.",
+    "stars": 100844,
+    "language": "TypeScript",
+    "category": "Media / Audio / Video",
+    "topics": [
+      "backup-tool",
+      "flutter",
+      "google-photos",
+      "google-photos-alternative",
+      "javascript",
+      "mobile-app",
+      "nestjs",
+      "nodejs",
+      "photo-gallery",
+      "photos",
+      "photos-management",
+      "self-hosted",
+      "svelte",
+      "sveltekit",
+      "typescript",
+      "videos"
+    ],
+    "updated_at": "2026-05-17T17:25:02Z"
+  },
+  {
+    "name": "bkerler/Loaders",
+    "url": "https://github.com/bkerler/Loaders",
+    "description": "EDL Loaders",
+    "stars": 488,
+    "language": "Unknown",
+    "category": "Other Interesting Tools",
+    "topics": [],
+    "updated_at": "2026-05-17T10:46:12Z"
+  },
+  {
+    "name": "edk2-porting/edk2-msm",
+    "url": "https://github.com/edk2-porting/edk2-msm",
+    "description": "Broken edk2 port for Qualcomm platforms xD",
+    "stars": 2560,
+    "language": "ASL",
+    "category": "System Tools",
+    "topics": [
+      "acpi",
+      "edk2",
+      "edk2-platforms",
+      "phone",
+      "uefi-firmware",
+      "windows-on-arm"
+    ],
+    "updated_at": "2026-05-12T22:29:36Z"
+  },
+  {
+    "name": "anvaka/map-of-github",
+    "url": "https://github.com/anvaka/map-of-github",
+    "description": "Inspirational Mapping",
+    "stars": 2852,
+    "language": "JavaScript",
+    "category": "Development / Coding",
+    "topics": [],
+    "updated_at": "2026-05-16T21:50:34Z"
+  },
+  {
+    "name": "laramies/metagoofil",
+    "url": "https://github.com/laramies/metagoofil",
+    "description": "Metadata harvester",
+    "stars": 1261,
+    "language": "Python",
+    "category": "Development / Coding",
+    "topics": [],
+    "updated_at": "2026-05-14T17:53:27Z"
+  },
+  {
+    "name": "jaakkopasanen/AutoEq",
+    "url": "https://github.com/jaakkopasanen/AutoEq",
+    "description": "Automatic headphone equalization from frequency responses",
+    "stars": 15793,
+    "language": "Python",
+    "category": "Development / Coding",
+    "topics": [],
+    "updated_at": "2026-05-17T17:03:46Z"
+  },
+  {
+    "name": "dylanaraps/pure-bash-bible",
+    "url": "https://github.com/dylanaraps/pure-bash-bible",
+    "description": "📖 A collection of pure bash alternatives to external processes.",
+    "stars": 41578,
+    "language": "Shell",
+    "category": "Termux / Android Linux",
+    "topics": [
+      "bash",
+      "bible",
+      "book",
+      "guide",
+      "handbook",
+      "how-to",
+      "learning",
+      "list",
+      "reference",
+      "script",
+      "shell",
+      "shell-scripts"
+    ],
+    "updated_at": "2026-05-17T15:31:21Z"
+  },
+  {
+    "name": "noahbliss/Viper4Linux",
+    "url": "https://github.com/noahbliss/Viper4Linux",
+    "description": "Implementation of the libviper library for modern Linux desktops.",
+    "stars": 143,
+    "language": "Shell",
+    "category": "Termux / Android Linux",
+    "topics": [],
+    "updated_at": "2026-03-31T07:04:48Z"
+  },
+  {
+    "name": "Moosync/Moosync-electron",
+    "url": "https://github.com/Moosync/Moosync-electron",
+    "description": "Music player capable of playing local audio or from Youtube, Spotify and many more",
+    "stars": 1257,
+    "language": "Vue",
+    "category": "Media / Audio / Video",
+    "topics": [
+      "discord",
+      "electron",
+      "emby",
+      "javascript",
+      "jellyfin-client",
+      "lastfm",
+      "music",
+      "music-player",
+      "plex-client",
+      "radio",
+      "radio-station",
+      "sass",
+      "soundcloud",
+      "spotify",
+      "subsonic-client",
+      "tidal",
+      "typescript",
+      "vue",
+      "youtube"
+    ],
+    "updated_at": "2026-05-13T13:17:05Z"
+  },
+  {
+    "name": "nextcloud/nextcloudpi",
+    "url": "https://github.com/nextcloud/nextcloudpi",
+    "description": "📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, curl installer...",
+    "stars": 2900,
+    "language": "Shell",
+    "category": "Termux / Android Linux",
+    "topics": [
+      "arm",
+      "nextcloud",
+      "qemu",
+      "raspberry-pi",
+      "raspbian",
+      "x86-64"
+    ],
+    "updated_at": "2026-05-16T17:41:11Z"
+  },
+  {
+    "name": "152334H/MiniGPT-4-discord-bot",
+    "url": "https://github.com/152334H/MiniGPT-4-discord-bot",
+    "description": "A true multimodal LLaMA derivative -- on Discord!",
+    "stars": 46,
+    "language": "Python",
+    "category": "Development / Coding",
+    "topics": [
+      "ai",
+      "blip2",
+      "discord-bot",
+      "llama",
+      "llm",
+      "multimodal",
+      "vicuna"
+    ],
+    "updated_at": "2025-09-29T12:29:33Z"
+  },
+  {
+    "name": "facebookresearch/DensePose",
+    "url": "https://github.com/facebookresearch/DensePose",
+    "description": "A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body",
+    "stars": 7232,
+    "language": "Jupyter Notebook",
+    "category": "Media / Audio / Video",
+    "topics": [],
+    "updated_at": "2026-05-16T14:38:30Z"
+  },
+  {
+    "name": "K3V1991/ADB-and-FastbootPlusPlus",
+    "url": "https://github.com/K3V1991/ADB-and-FastbootPlusPlus",
+    "description": "A small Application for Windows that allows you to install the latest Version of ADB and Fastboot Files on the Computer without installing the entire Android SDK Package + Toolkit & Commands",
+    "stars": 726,
+    "language": "Batchfile",
+    "category": "Termux / Android Linux",
+    "topics": [
+      "adb",
+      "android",
+      "bat",
+      "batch",
+      "cmd",
+      "commands",
+      "fastboot",
+      "platform-tools",
+      "sdk",
+      "tool",
+      "toolkit",
+      "usb",
+      "windows"
+    ],
+    "updated_at": "2026-05-17T06:20:34Z"
+  },
+  {
+    "name": "DoTheEvo/ANGRYsearch",
+    "url": "https://github.com/DoTheEvo/ANGRYsearch",
+    "description": "Linux file search, instant results as you type",
+    "stars": 1151,
+    "language": "Python",
+    "category": "Termux / Android Linux",
+    "topics": [],
+    "updated_at": "2026-05-13T10:08:44Z"
+  },
+  {
+    "name": "andreock/kali-nethunter-s9",
+    "url": "https://github.com/andreock/kali-nethunter-s9",
+    "description": "No description",
+    "stars": 11,
+    "language": "C",
+    "category": "Security / Hacking",
+    "topics": [],
+    "updated_at": "2026-03-06T17:24:43Z"
+  },
+  {
+    "name": "webosbrew/webos-homebrew-channel",
+    "url": "https://github.com/webosbrew/webos-homebrew-channel",
+    "description": "Unofficial webOS TV homebrew store and root-related tooling",
+    "stars": 1239,
+    "language": "JavaScript",
+    "category": "Development / Coding",
+    "topics": [
+      "enyo",
+      "webos"
+    ],
+    "updated_at": "2026-05-16T22:20:44Z"
+  },
+  {
+    "name": "maaaaz/smbmap",
+    "url": "https://github.com/maaaaz/smbmap",
+    "description": "SMBMap is a handy SMB enumeration tool",
+    "stars": 3,
+    "language": "Unknown",
+    "category": "Other Interesting Tools",
+    "topics": [],
+    "updated_at": "2023-09-13T21:12:14Z"
+  },
+  {
+    "name": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+    "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
+    "stars": 112370,
+    "language": "Unknown",
+    "category": "Security / Hacking",
+    "topics": [
+      "android",
+      "awesome",
+      "bug-bounty",
+      "fuzzing",
+      "hacking",
+      "penetration-testing",
+      "pentesting-windows",
+      "reverse-engineering",
+      "security"
+    ],
+    "updated_at": "2026-05-17T17:16:06Z"
+  },
+  {
+    "name": "yuliskov/SmartTube",
+    "url": "https://github.com/yuliskov/SmartTube",
+    "description": "Browse media content with your own rules on Android TV",
+    "stars": 30112,
+    "language": "Java",
+    "category": "Termux / Android Linux",
+    "topics": [
+      "android",
+      "android-tv",
+      "android-tv-box",
+      "java",
+      "kotlin",
+      "retrofit2",
+      "rxjava-android"
+    ],
+    "updated_at": "2026-05-17T17:12:40Z"
+  },
+  {
+    "name": "AlexxIT/SonoffLAN",
+    "url": "https://github.com/AlexxIT/SonoffLAN",
+    "description": "Control Sonoff Devices with eWeLink (original) firmware over LAN and/or Cloud from Home Assistant",
+    "stars": 3236,
+    "language": "Python",
+    "category": "Development / Coding",
+    "topics": [
+      "ewelink",
+      "hacs",
+      "home-assistant",
+      "sonoff"
+    ],
+    "updated_at": "2026-05-17T07:38:14Z"
+  },
+  {
+    "name": "stephane-r/HoloPlay",
+    "url": "https://github.com/stephane-r/HoloPlay",
+    "description": "React-Native app using Invidious API for listening Youtube audio source.",
+    "stars": 177,
+    "language": "TypeScript",
+    "category": "Media / Audio / Video",
+    "topics": [],
+    "updated_at": "2026-05-15T21:13:35Z"
+  },
+  {
+    "name": "chromecast-sponsorblock/chromecast-sponsorblock",
+    "url": "https://github.com/chromecast-sponsorblock/chromecast-sponsorblock",
+    "description": "No description",
+    "stars": 44,
+    "language": "JavaScript",
+    "category": "Development / Coding",
+    "topics": [],
+    "updated_at": "2026-05-05T22:11:50Z"
+  },
+  {
+    "name": "PokeMiners/pogo_assets",
+    "url": "https://github.com/PokeMiners/pogo_assets",
+    "description": "Repository of all mined assets including sprites, news items, sound files, translations, and 3D Assets for Pokemon GO.",
+    "stars": 484,
+    "language": "Unknown",
+    "category": "Termux / Android Linux",
+    "topics": [
+      "apk",
+      "mined-assets",
+      "niantic",
+      "pokemon-go"
+    ],
+    "updated_at": "2026-05-16T17:48:41Z"
+  },
+  {
+    "name": "securitytxt/security-txt",
+    "url": "https://github.com/securitytxt/security-txt",
+    "description": "A proposed standard that allows websites to define security policies.",
+    "stars": 1862,
+    "language": "HTML",
+    "category": "Security / Hacking",
+    "topics": [
+      "ietf",
+      "ietf-rfcs",
+      "infosec",
+      "internet-draft",
+      "issue-tracker",
+      "policy",
+      "security",
+      "standard"
+    ],
+    "updated_at": "2026-05-17T10:37:30Z"
+  },
+  {
+    "name": "firecracker-microvm/firecracker",
+    "url": "https://github.com/firecracker-microvm/firecracker",
+    "description": "Secure and fast microVMs for serverless computing.",
+    "stars": 34413,
+    "language": "Rust",
+    "category": "Development / Coding",
+    "topics": [
+      "containers",
+      "minimalist",
+      "open-source",
+      "oversubscription",
+      "rust",
+      "sandbox",
+      "serverless",
+      "virtual-machine",
+      "virtualization"
+    ],
+    "updated_at": "2026-05-17T17:27:33Z"
+  },
+  {
+    "name": "adde88/openwrt-useful-tools",
+    "url": "https://github.com/adde88/openwrt-useful-tools",
+    "description": "A repo containing different tools compiled specifically for the Hak5 WiFi Pineapple MK6 and MK7.",
+    "stars": 295,
+    "language": "Standard ML",
+    "category": "Security / Hacking",
+    "topics": [
+      "aircrack-ng",
+      "ar71xx",
+      "chaos-calmer",
+      "hacking",
+      "hak5",
+      "hcxdumptool",
+      "hcxtools",
+      "kali",
+      "kali-linux",
+      "kismet",
+      "mips",
+      "mipsel",
+      "mk6",
+      "mk7",
+      "mt76x8",
+      "openwrt",
+      "pineapple",
+      "ramips",
+      "wifi",
+      "wireless"
+    ],
+    "updated_at": "2026-05-12T22:42:08Z"
+  },
+  {
+    "name": "hahwul/metasploit-autopwn",
+    "url": "https://github.com/hahwul/metasploit-autopwn",
+    "description": "db_autopwn plugin of metasploit",
+    "stars": 267,
+    "language": "Ruby",
+    "category": "Other Interesting Tools",
+    "topics": [],
+    "updated_at": "2026-05-04T02:15:15Z"
+  },
+  {
+    "name": "grant-h/qu1ckr00t",
+    "url": "https://github.com/grant-h/qu1ckr00t",
+    "description": "A PoC application demonstrating the power of an Android kernel arbitrary R/W.",
+    "stars": 444,
+    "language": "C",
+    "category": "Termux / Android Linux",
+    "topics": [],
+    "updated_at": "2026-05-17T07:50:36Z"
+  },
+  {
+    "name": "xbmc/xbmc",
+    "url": "https://github.com/xbmc/xbmc",
+    "description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.",
+    "stars": 20751,
+    "language": "C++",
+    "category": "Termux / Android Linux",
+    "topics": [
+      "android",
+      "c-plus-plus",
+      "entertainment-hub",
+      "hacktoberfest",
+      "home-theater",
+      "ios",
+      "kodi",
+      "linux",
+      "macos",
+      "media-center",
+      "media-player",
+      "multimedia",
+      "python",
+      "windows-desktop",
+      "windows-uwp",
+      "xbmc",
+      "xml"
+    ],
+    "updated_at": "2026-05-17T17:15:47Z"
+  },
+  {
+    "name": "brannondorsey/mitm-router",
+    "url": "https://github.com/brannondorsey/mitm-router",
+    "description": "☠ Man-in-the-middle wireless access point inside a docker container 🐳",
+    "stars": 461,
+    "language": "Shell",
+    "category": "Security / Hacking",
+    "topics": [
+      "docker",
+      "honeypot",
+      "hostapd",
+      "man-in-the-middle",
+      "mitm",
+      "mitmproxy",
+      "router",
+      "wifi"
+    ],
+    "updated_at": "2026-04-23T05:24:40Z"
+  },
+  {
+    "name": "ArmisSecurity/blueborne",
+    "url": "https://github.com/ArmisSecurity/blueborne",
+    "description": "PoC scripts demonstrating the BlueBorne vulnerabilities",
+    "stars": 610,
+    "language": "Python",
+    "category": "Security / Hacking",
+    "topics": [],
+    "updated_at": "2026-05-12T15:52:05Z"
+  },
+  {
+    "name": "seemoo-lab/nexmon",
+    "url": "https://github.com/seemoo-lab/nexmon",
+    "description": "The C-based Firmware Patching Framework for Broadcom/Cypress WiFi Chips that enables Monitor Mode, Frame Injection and much more",
+    "stars": 2810,
+    "language": "C",
+    "category": "Security / Hacking",
+    "topics": [
+      "broadcom",
+      "firmware",
+      "framework",
+      "nexmon",
+      "patching",
+      "rpi",
+      "smartphone"
+    ],
+    "updated_at": "2026-05-17T14:00:32Z"
+  },
+  {
+    "name": "abishekvashok/cmatrix",
+    "url": "https://github.com/abishekvashok/cmatrix",
+    "description": "Terminal based \"The Matrix\" like implementation",
+    "stars": 5078,
+    "language": "C",
+    "category": "Other Interesting Tools",
+    "topics": [
+      "c",
+      "matrix",
+      "screensaver"
+    ],
+    "updated_at": "2026-05-17T14:15:49Z"
+  },
+  {
+    "name": "jkush321/dSploitScripts",
+    "url": "https://github.com/jkush321/dSploitScripts",
+    "description": "An Android app that allows easy downloading for scripts to inject into webpages with dSploit",
+    "stars": 35,
+    "language": "Java",
+    "category": "Termux / Android Linux",
+    "topics": [],
+    "updated_at": "2026-02-02T13:10:07Z"
+  },
+  {
+    "name": "john9527/asuswrt-merlin",
+    "url": "https://github.com/john9527/asuswrt-merlin",
+    "description": "Fork of earlier asuswrt-merlin router firmware",
+    "stars": 385,
+    "language": "Unknown",
+    "category": "Other Interesting Tools",
+    "topics": [],
+    "updated_at": "2026-03-20T15:22:25Z"
+  },
+  {
+    "name": "frederic/pflupg-tool",
+    "url": "https://github.com/frederic/pflupg-tool",
+    "description": "Unpacking tool for Philips SmartTV firmware (Fusion platform)",
+    "stars": 24,
+    "language": "C",
+    "category": "Other Interesting Tools",
+    "topics": [],
+    "updated_at": "2025-11-01T16:56:47Z"
+  },
+  {
+    "name": "Entware/Entware-ng",
+    "url": "https://github.com/Entware/Entware-ng",
+    "description": "Entware-ng",
+    "stars": 1213,
+    "language": "C",
+    "category": "Other Interesting Tools",
+    "topics": [
+      "buildroot",
+      "deprecated",
+      "entware-ng"
+    ],
+    "updated_at": "2026-05-13T18:42:06Z"
+  },
+  {
+    "name": "Disassembler0/Win10-Initial-Setup-Script",
+    "url": "https://github.com/Disassembler0/Win10-Initial-Setup-Script",
+    "description": "PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019",
+    "stars": 4654,
+    "language": "PowerShell",
+    "category": "Termux / Android Linux",
+    "topics": [
+      "powershell",
+      "sysadmin",
+      "sysadmin-tasks",
+      "tweaks",
+      "windows-10",
+      "windows-server-2016",
+      "windows-server-2019"
+    ],
+    "updated_at": "2026-05-14T13:26:56Z"
+  },
+  {
+    "name": "brompwnie/uitkyk",
+    "url": "https://github.com/brompwnie/uitkyk",
+    "description": "Runtime memory analysis framework to identify Android malware",
+    "stars": 145,
+    "language": "Java",
+    "category": "Security / Hacking",
+    "topics": [
+      "android",
+      "instrumentation",
+      "malware"
+    ],
+    "updated_at": "2026-02-23T14:27:21Z"
+  },
+  {
+    "name": "OpenVPN/tap-windows",
+    "url": "https://github.com/OpenVPN/tap-windows",
+    "description": "Windows TAP driver",
+    "stars": 417,
+    "language": "C",
+    "category": "System Tools",
+    "topics": [],
+    "updated_at": "2026-05-11T12:26:02Z"
+  },
+  {
+    "name": "OpenVPN/openvpn-gui",
+    "url": "https://github.com/OpenVPN/openvpn-gui",
+    "description": "OpenVPN GUI is a graphical frontend for OpenVPN running on Windows (10 and 11). It creates an icon in the notification area from which you can control OpenVPN to start/stop your VPN tunnels, view the log and do other useful things.",
+    "stars": 1753,
+    "language": "C",
+    "category": "Security / Hacking",
+    "topics": [
+      "security",
+      "vpn-client"
+    ],
+    "updated_at": "2026-05-15T17:05:49Z"
+  },
+  {
+    "name": "mandatoryprogrammer/xssless",
+    "url": "https://github.com/mandatoryprogrammer/xssless",
+    "description": "An automated XSS payload generator written in python.",
+    "stars": 316,
+    "language": "Python",
+    "category": "Development / Coding",
+    "topics": [],
+    "updated_at": "2026-04-25T04:27:19Z"
+  },
+  {
+    "name": "Squonk42/OpenWrt-RT5350",
+    "url": "https://github.com/Squonk42/OpenWrt-RT5350",
+    "description": "Patches to compile OpenWrt Linux on Ralink RT5350-based routers",
+    "stars": 70,
+    "language": "Unknown",
+    "category": "Termux / Android Linux",
+    "topics": [],
+    "updated_at": "2026-04-04T11:40:25Z"
+  },
+  {
+    "name": "kost/NetworkMapper",
+    "url": "https://github.com/kost/NetworkMapper",
+    "description": "Android frontend for Nmap Security Scanner",
+    "stars": 69,
+    "language": "Java",
+    "category": "Security / Hacking",
+    "topics": [],
+    "updated_at": "2026-04-24T17:54:03Z"
+  },
+  {
+    "name": "cSploit/android",
+    "url": "https://github.com/cSploit/android",
+    "description": "cSploit - The most complete and advanced IT security professional toolkit on Android.",
+    "stars": 3605,
+    "language": "Java",
+    "category": "Security / Hacking",
+    "topics": [],
+    "updated_at": "2026-05-13T11:23:11Z"
+  },
+  {
+    "name": "razzeee/script.trakt",
+    "url": "https://github.com/razzeee/script.trakt",
+    "description": "Trakt.tv movie and TV show scrobbler for Kodi",
+    "stars": 356,
+    "language": "Python",
+    "category": "Development / Coding",
+    "topics": [],
+    "updated_at": "2026-05-09T05:45:54Z"
+  },
+  {
+    "name": "meefik/linuxdeploy",
+    "url": "https://github.com/meefik/linuxdeploy",
+    "description": "Install and run GNU/Linux on Android",
+    "stars": 5836,
+    "language": "Java",
+    "category": "Termux / Android Linux",
+    "topics": [
+      "android",
+      "chroot",
+      "containers",
+      "deployment",
+      "linux"
+    ],
+    "updated_at": "2026-05-17T10:11:45Z"
+  }
+]

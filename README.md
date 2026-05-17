@@ -2,7 +2,9 @@
 
 > Automaticky generovaný katalog zajímavých aplikací, nástrojů a repozitářů.
 
-Last update: **2026-05-17 17:19 UTC**
+🌐 Cyberdeck web: **[https://ala777.github.io/awesome-apps/](https://ala777.github.io/awesome-apps/)**
+
+Last update: **2026-05-17 17:27 UTC**
 
 ## Categories
 
@@ -56,7 +58,7 @@ Last update: **2026-05-17 17:19 UTC**
 
 - [DISTRHO/Cardinal](https://github.com/DISTRHO/Cardinal) — Virtual modular synthesizer plugin ⭐ 3039 — `C++` — `audio`, `eurorack`, `lv2-plugin`, `plugin`, `vcvrack`, `vst-plugin`
 - [facebookresearch/DensePose](https://github.com/facebookresearch/DensePose) — A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body ⭐ 7232 — `Jupyter Notebook`
-- [immich-app/immich](https://github.com/immich-app/immich) — High performance self-hosted photo and video management solution. ⭐ 100843 — `TypeScript` — `backup-tool`, `flutter`, `google-photos`, `google-photos-alternative`, `javascript`, `mobile-app`
+- [immich-app/immich](https://github.com/immich-app/immich) — High performance self-hosted photo and video management solution. ⭐ 100844 — `TypeScript` — `backup-tool`, `flutter`, `google-photos`, `google-photos-alternative`, `javascript`, `mobile-app`
 - [Moosync/Moosync-electron](https://github.com/Moosync/Moosync-electron) — Music player capable of playing local audio or from Youtube, Spotify and many more ⭐ 1257 — `Vue` — `discord`, `electron`, `emby`, `javascript`, `jellyfin-client`, `lastfm`
 - [stephane-r/HoloPlay](https://github.com/stephane-r/HoloPlay) — React-Native app using Invidious API for listening Youtube audio source. ⭐ 177 — `TypeScript`
 
@@ -71,7 +73,7 @@ Last update: **2026-05-17 17:19 UTC**
 - [AlexxIT/SonoffLAN](https://github.com/AlexxIT/SonoffLAN) — Control Sonoff Devices with eWeLink (original) firmware over LAN and/or Cloud from Home Assistant ⭐ 3236 — `Python` — `ewelink`, `hacs`, `home-assistant`, `sonoff`
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) — Inspirational Mapping ⭐ 2852 — `JavaScript`
 - [chromecast-sponsorblock/chromecast-sponsorblock](https://github.com/chromecast-sponsorblock/chromecast-sponsorblock) — No description ⭐ 44 — `JavaScript`
-- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) — Secure and fast microVMs for serverless computing. ⭐ 34405 — `Rust` — `containers`, `minimalist`, `open-source`, `oversubscription`, `rust`, `sandbox`
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) — Secure and fast microVMs for serverless computing. ⭐ 34413 — `Rust` — `containers`, `minimalist`, `open-source`, `oversubscription`, `rust`, `sandbox`
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) — Automatic headphone equalization from frequency responses ⭐ 15793 — `Python`
 - [kimocoder/kimocoder](https://github.com/kimocoder/kimocoder) — No description ⭐ 28 — `Unknown`
 - [laramies/metagoofil](https://github.com/laramies/metagoofil) — Metadata harvester ⭐ 1261 — `Python`
