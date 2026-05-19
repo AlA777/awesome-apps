@@ -3,7 +3,7 @@
     "name": "Devolutions/UniGetUI",
     "url": "https://github.com/Devolutions/UniGetUI",
     "description": "UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers",
-    "stars": 23876,
+    "stars": 23899,
     "language": "C#",
     "category": "System Tools",
     "topics": [
@@ -20,20 +20,20 @@
       "windows-11",
       "winget"
     ],
-    "updated_at": "2026-05-18T09:10:42Z"
+    "updated_at": "2026-05-19T07:47:19Z"
   },
   {
     "name": "Incipiens/WindowsControlCenter",
     "url": "https://github.com/Incipiens/WindowsControlCenter",
     "description": "This application aims to amalgamate the most common tweaks and monitoring tools into one holistic UI. All scripts run through PowerShell, all tweaks are revertible registry entries.",
-    "stars": 6,
+    "stars": 8,
     "language": "C#",
     "category": "Termux / Android Linux",
     "topics": [
       "windows",
       "windows11"
     ],
-    "updated_at": "2026-05-18T06:36:29Z"
+    "updated_at": "2026-05-18T19:36:08Z"
   },
   {
     "name": "eltonkola/opencamera",
@@ -128,17 +128,17 @@
       "primevideo",
       "webextension"
     ],
-    "updated_at": "2026-05-17T19:43:59Z"
+    "updated_at": "2026-05-18T12:11:21Z"
   },
   {
     "name": "permissionlesstech/bitchat-android",
     "url": "https://github.com/permissionlesstech/bitchat-android",
     "description": "bluetooth mesh chat, IRC vibes",
-    "stars": 5455,
+    "stars": 5458,
     "language": "Kotlin",
     "category": "Termux / Android Linux",
     "topics": [],
-    "updated_at": "2026-05-18T08:33:44Z"
+    "updated_at": "2026-05-19T07:12:08Z"
   },
   {
     "name": "shadps4-emu/shadPS4-launcher",
@@ -184,7 +184,7 @@
     "name": "immich-app/immich",
     "url": "https://github.com/immich-app/immich",
     "description": "High performance self-hosted photo and video management solution.",
-    "stars": 100922,
+    "stars": 101045,
     "language": "TypeScript",
     "category": "Media / Audio / Video",
     "topics": [
@@ -205,7 +205,7 @@
       "typescript",
       "videos"
     ],
-    "updated_at": "2026-05-18T09:27:06Z"
+    "updated_at": "2026-05-19T08:54:13Z"
   },
   {
     "name": "bkerler/Loaders",
@@ -258,11 +258,11 @@
     "name": "jaakkopasanen/AutoEq",
     "url": "https://github.com/jaakkopasanen/AutoEq",
     "description": "Automatic headphone equalization from frequency responses",
-    "stars": 15797,
+    "stars": 15799,
     "language": "Python",
     "category": "Development / Coding",
     "topics": [],
-    "updated_at": "2026-05-18T07:48:07Z"
+    "updated_at": "2026-05-19T08:45:49Z"
   },
   {
     "name": "dylanaraps/pure-bash-bible",
@@ -285,7 +285,7 @@
       "shell",
       "shell-scripts"
     ],
-    "updated_at": "2026-05-18T08:31:17Z"
+    "updated_at": "2026-05-19T02:45:27Z"
   },
   {
     "name": "noahbliss/Viper4Linux",
@@ -366,11 +366,11 @@
     "name": "facebookresearch/DensePose",
     "url": "https://github.com/facebookresearch/DensePose",
     "description": "A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body",
-    "stars": 7232,
+    "stars": 7231,
     "language": "Jupyter Notebook",
     "category": "Media / Audio / Video",
     "topics": [],
-    "updated_at": "2026-05-16T14:38:30Z"
+    "updated_at": "2026-05-19T02:03:01Z"
   },
   {
     "name": "K3V1991/ADB-and-FastbootPlusPlus",
@@ -420,14 +420,14 @@
     "name": "webosbrew/webos-homebrew-channel",
     "url": "https://github.com/webosbrew/webos-homebrew-channel",
     "description": "Unofficial webOS TV homebrew store and root-related tooling",
-    "stars": 1239,
+    "stars": 1240,
     "language": "JavaScript",
     "category": "Development / Coding",
     "topics": [
       "enyo",
       "webos"
     ],
-    "updated_at": "2026-05-16T22:20:44Z"
+    "updated_at": "2026-05-19T03:25:31Z"
   },
   {
     "name": "maaaaz/smbmap",
@@ -443,7 +443,7 @@
     "name": "Hack-with-Github/Awesome-Hacking",
     "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
     "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
-    "stars": 112415,
+    "stars": 112496,
     "language": "Unknown",
     "category": "Security / Hacking",
     "topics": [
@@ -457,13 +457,13 @@
       "reverse-engineering",
       "security"
     ],
-    "updated_at": "2026-05-18T08:57:24Z"
+    "updated_at": "2026-05-19T08:44:31Z"
   },
   {
     "name": "yuliskov/SmartTube",
     "url": "https://github.com/yuliskov/SmartTube",
     "description": "Browse media content with your own rules on Android TV",
-    "stars": 30118,
+    "stars": 30133,
     "language": "Java",
     "category": "Termux / Android Linux",
     "topics": [
@@ -475,7 +475,7 @@
       "retrofit2",
       "rxjava-android"
     ],
-    "updated_at": "2026-05-18T06:18:50Z"
+    "updated_at": "2026-05-19T06:29:33Z"
   },
   {
     "name": "AlexxIT/SonoffLAN",
@@ -490,7 +490,7 @@
       "home-assistant",
       "sonoff"
     ],
-    "updated_at": "2026-05-18T09:37:58Z"
+    "updated_at": "2026-05-18T14:59:48Z"
   },
   {
     "name": "stephane-r/HoloPlay",
@@ -550,7 +550,7 @@
     "name": "firecracker-microvm/firecracker",
     "url": "https://github.com/firecracker-microvm/firecracker",
     "description": "Secure and fast microVMs for serverless computing.",
-    "stars": 34436,
+    "stars": 34452,
     "language": "Rust",
     "category": "Development / Coding",
     "topics": [
@@ -564,7 +564,7 @@
       "virtual-machine",
       "virtualization"
     ],
-    "updated_at": "2026-05-18T09:01:43Z"
+    "updated_at": "2026-05-19T08:46:35Z"
   },
   {
     "name": "adde88/openwrt-useful-tools",
@@ -621,7 +621,7 @@
     "name": "xbmc/xbmc",
     "url": "https://github.com/xbmc/xbmc",
     "description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.",
-    "stars": 20752,
+    "stars": 20759,
     "language": "C++",
     "category": "Termux / Android Linux",
     "topics": [
@@ -643,7 +643,7 @@
       "xbmc",
       "xml"
     ],
-    "updated_at": "2026-05-17T22:37:40Z"
+    "updated_at": "2026-05-19T08:32:00Z"
   },
   {
     "name": "brannondorsey/mitm-router",
@@ -704,7 +704,7 @@
       "matrix",
       "screensaver"
     ],
-    "updated_at": "2026-05-17T14:15:49Z"
+    "updated_at": "2026-05-18T22:10:49Z"
   },
   {
     "name": "jkush321/dSploitScripts",
@@ -754,7 +754,7 @@
     "name": "Disassembler0/Win10-Initial-Setup-Script",
     "url": "https://github.com/Disassembler0/Win10-Initial-Setup-Script",
     "description": "PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019",
-    "stars": 4654,
+    "stars": 4653,
     "language": "PowerShell",
     "category": "Termux / Android Linux",
     "topics": [
@@ -766,7 +766,7 @@
       "windows-server-2016",
       "windows-server-2019"
     ],
-    "updated_at": "2026-05-14T13:26:56Z"
+    "updated_at": "2026-05-18T19:42:33Z"
   },
   {
     "name": "brompwnie/uitkyk",
@@ -839,11 +839,11 @@
     "name": "cSploit/android",
     "url": "https://github.com/cSploit/android",
     "description": "cSploit - The most complete and advanced IT security professional toolkit on Android.",
-    "stars": 3605,
+    "stars": 3606,
     "language": "Java",
     "category": "Security / Hacking",
     "topics": [],
-    "updated_at": "2026-05-13T11:23:11Z"
+    "updated_at": "2026-05-18T23:29:28Z"
   },
   {
     "name": "razzeee/script.trakt",
@@ -859,7 +859,7 @@
     "name": "meefik/linuxdeploy",
     "url": "https://github.com/meefik/linuxdeploy",
     "description": "Install and run GNU/Linux on Android",
-    "stars": 5836,
+    "stars": 5839,
     "language": "Java",
     "category": "Termux / Android Linux",
     "topics": [
@@ -869,6 +869,6 @@
       "deployment",
       "linux"
     ],
-    "updated_at": "2026-05-17T10:11:45Z"
+    "updated_at": "2026-05-19T07:38:18Z"
   }
 ]
