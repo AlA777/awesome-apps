@@ -3,7 +3,7 @@
     "name": "Devolutions/UniGetUI",
     "url": "https://github.com/Devolutions/UniGetUI",
     "description": "UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers",
-    "stars": 23973,
+    "stars": 23986,
     "language": "C#",
     "category": "System Tools",
     "topics": [
@@ -20,7 +20,7 @@
       "windows-11",
       "winget"
     ],
-    "updated_at": "2026-05-23T07:48:19Z"
+    "updated_at": "2026-05-24T03:55:45Z"
   },
   {
     "name": "Incipiens/WindowsControlCenter",
@@ -65,7 +65,7 @@
     "name": "mohammadmahdi-termux/hackCCTV",
     "url": "https://github.com/mohammadmahdi-termux/hackCCTV",
     "description": "Hackcctv",
-    "stars": 295,
+    "stars": 296,
     "language": "Python",
     "category": "Network / ONVIF / IP Cameras",
     "topics": [
@@ -82,7 +82,7 @@
       "python",
       "termux"
     ],
-    "updated_at": "2026-05-16T11:06:24Z"
+    "updated_at": "2026-05-23T14:54:05Z"
   },
   {
     "name": "DISTRHO/Cardinal",
@@ -138,7 +138,7 @@
     "language": "Kotlin",
     "category": "Termux / Android Linux",
     "topics": [],
-    "updated_at": "2026-05-23T07:07:17Z"
+    "updated_at": "2026-05-24T07:09:40Z"
   },
   {
     "name": "shadps4-emu/shadPS4-launcher",
@@ -184,7 +184,7 @@
     "name": "immich-app/immich",
     "url": "https://github.com/immich-app/immich",
     "description": "High performance self-hosted photo and video management solution.",
-    "stars": 101354,
+    "stars": 101516,
     "language": "TypeScript",
     "category": "Media / Audio / Video",
     "topics": [
@@ -205,7 +205,7 @@
       "typescript",
       "videos"
     ],
-    "updated_at": "2026-05-23T07:34:55Z"
+    "updated_at": "2026-05-24T08:11:02Z"
   },
   {
     "name": "bkerler/Loaders",
@@ -221,7 +221,7 @@
     "name": "edk2-porting/edk2-msm",
     "url": "https://github.com/edk2-porting/edk2-msm",
     "description": "Broken edk2 port for Qualcomm platforms xD",
-    "stars": 2561,
+    "stars": 2563,
     "language": "ASL",
     "category": "System Tools",
     "topics": [
@@ -232,7 +232,7 @@
       "uefi-firmware",
       "windows-on-arm"
     ],
-    "updated_at": "2026-05-22T17:53:53Z"
+    "updated_at": "2026-05-23T12:53:50Z"
   },
   {
     "name": "anvaka/map-of-github",
@@ -248,27 +248,27 @@
     "name": "laramies/metagoofil",
     "url": "https://github.com/laramies/metagoofil",
     "description": "Metadata harvester",
-    "stars": 1261,
+    "stars": 1262,
     "language": "Python",
     "category": "Development / Coding",
     "topics": [],
-    "updated_at": "2026-05-14T17:53:27Z"
+    "updated_at": "2026-05-23T13:15:21Z"
   },
   {
     "name": "jaakkopasanen/AutoEq",
     "url": "https://github.com/jaakkopasanen/AutoEq",
     "description": "Automatic headphone equalization from frequency responses",
-    "stars": 15821,
+    "stars": 15824,
     "language": "Python",
     "category": "Development / Coding",
     "topics": [],
-    "updated_at": "2026-05-23T06:50:34Z"
+    "updated_at": "2026-05-24T02:48:15Z"
   },
   {
     "name": "dylanaraps/pure-bash-bible",
     "url": "https://github.com/dylanaraps/pure-bash-bible",
     "description": "📖 A collection of pure bash alternatives to external processes.",
-    "stars": 41594,
+    "stars": 41598,
     "language": "Shell",
     "category": "Termux / Android Linux",
     "topics": [
@@ -285,7 +285,7 @@
       "shell",
       "shell-scripts"
     ],
-    "updated_at": "2026-05-23T07:45:25Z"
+    "updated_at": "2026-05-24T08:06:33Z"
   },
   {
     "name": "noahbliss/Viper4Linux",
@@ -366,11 +366,11 @@
     "name": "facebookresearch/DensePose",
     "url": "https://github.com/facebookresearch/DensePose",
     "description": "A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body",
-    "stars": 7234,
+    "stars": 7233,
     "language": "Jupyter Notebook",
     "category": "Media / Audio / Video",
     "topics": [],
-    "updated_at": "2026-05-22T14:28:28Z"
+    "updated_at": "2026-05-23T14:00:53Z"
   },
   {
     "name": "K3V1991/ADB-and-FastbootPlusPlus",
@@ -420,14 +420,14 @@
     "name": "webosbrew/webos-homebrew-channel",
     "url": "https://github.com/webosbrew/webos-homebrew-channel",
     "description": "Unofficial webOS TV homebrew store and root-related tooling",
-    "stars": 1243,
+    "stars": 1244,
     "language": "JavaScript",
     "category": "Development / Coding",
     "topics": [
       "enyo",
       "webos"
     ],
-    "updated_at": "2026-05-22T22:41:40Z"
+    "updated_at": "2026-05-23T14:01:09Z"
   },
   {
     "name": "maaaaz/smbmap",
@@ -443,7 +443,7 @@
     "name": "Hack-with-Github/Awesome-Hacking",
     "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
     "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
-    "stars": 112892,
+    "stars": 112956,
     "language": "Unknown",
     "category": "Security / Hacking",
     "topics": [
@@ -457,13 +457,13 @@
       "reverse-engineering",
       "security"
     ],
-    "updated_at": "2026-05-23T07:58:19Z"
+    "updated_at": "2026-05-24T07:13:47Z"
   },
   {
     "name": "yuliskov/SmartTube",
     "url": "https://github.com/yuliskov/SmartTube",
     "description": "Browse media content with your own rules on Android TV",
-    "stars": 30175,
+    "stars": 30194,
     "language": "Java",
     "category": "Termux / Android Linux",
     "topics": [
@@ -475,13 +475,13 @@
       "retrofit2",
       "rxjava-android"
     ],
-    "updated_at": "2026-05-23T07:22:58Z"
+    "updated_at": "2026-05-24T07:38:37Z"
   },
   {
     "name": "AlexxIT/SonoffLAN",
     "url": "https://github.com/AlexxIT/SonoffLAN",
     "description": "Control Sonoff Devices with eWeLink (original) firmware over LAN and/or Cloud from Home Assistant",
-    "stars": 3240,
+    "stars": 3242,
     "language": "Python",
     "category": "Development / Coding",
     "topics": [
@@ -490,7 +490,7 @@
       "home-assistant",
       "sonoff"
     ],
-    "updated_at": "2026-05-22T22:52:53Z"
+    "updated_at": "2026-05-23T14:23:21Z"
   },
   {
     "name": "stephane-r/HoloPlay",
@@ -550,7 +550,7 @@
     "name": "firecracker-microvm/firecracker",
     "url": "https://github.com/firecracker-microvm/firecracker",
     "description": "Secure and fast microVMs for serverless computing.",
-    "stars": 34531,
+    "stars": 34547,
     "language": "Rust",
     "category": "Development / Coding",
     "topics": [
@@ -564,7 +564,7 @@
       "virtual-machine",
       "virtualization"
     ],
-    "updated_at": "2026-05-23T07:35:17Z"
+    "updated_at": "2026-05-24T02:09:34Z"
   },
   {
     "name": "adde88/openwrt-useful-tools",
@@ -621,7 +621,7 @@
     "name": "xbmc/xbmc",
     "url": "https://github.com/xbmc/xbmc",
     "description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.",
-    "stars": 20774,
+    "stars": 20778,
     "language": "C++",
     "category": "Termux / Android Linux",
     "topics": [
@@ -643,7 +643,7 @@
       "xbmc",
       "xml"
     ],
-    "updated_at": "2026-05-23T07:14:03Z"
+    "updated_at": "2026-05-24T07:01:17Z"
   },
   {
     "name": "brannondorsey/mitm-router",
@@ -704,7 +704,7 @@
       "matrix",
       "screensaver"
     ],
-    "updated_at": "2026-05-22T19:21:38Z"
+    "updated_at": "2026-05-24T01:40:15Z"
   },
   {
     "name": "jkush321/dSploitScripts",
@@ -754,7 +754,7 @@
     "name": "Disassembler0/Win10-Initial-Setup-Script",
     "url": "https://github.com/Disassembler0/Win10-Initial-Setup-Script",
     "description": "PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019",
-    "stars": 4651,
+    "stars": 4649,
     "language": "PowerShell",
     "category": "Termux / Android Linux",
     "topics": [
@@ -766,7 +766,7 @@
       "windows-server-2016",
       "windows-server-2019"
     ],
-    "updated_at": "2026-05-23T06:50:12Z"
+    "updated_at": "2026-05-23T12:22:47Z"
   },
   {
     "name": "brompwnie/uitkyk",
@@ -859,7 +859,7 @@
     "name": "meefik/linuxdeploy",
     "url": "https://github.com/meefik/linuxdeploy",
     "description": "Install and run GNU/Linux on Android",
-    "stars": 5842,
+    "stars": 5844,
     "language": "Java",
     "category": "Termux / Android Linux",
     "topics": [
@@ -869,6 +869,6 @@
       "deployment",
       "linux"
     ],
-    "updated_at": "2026-05-22T15:29:51Z"
+    "updated_at": "2026-05-23T15:24:34Z"
   }
 ]
