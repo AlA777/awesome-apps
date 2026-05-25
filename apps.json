@@ -3,7 +3,7 @@
     "name": "Devolutions/UniGetUI",
     "url": "https://github.com/Devolutions/UniGetUI",
     "description": "UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers",
-    "stars": 23986,
+    "stars": 24004,
     "language": "C#",
     "category": "System Tools",
     "topics": [
@@ -20,7 +20,7 @@
       "windows-11",
       "winget"
     ],
-    "updated_at": "2026-05-24T03:55:45Z"
+    "updated_at": "2026-05-25T09:34:50Z"
   },
   {
     "name": "Incipiens/WindowsControlCenter",
@@ -128,17 +128,17 @@
       "primevideo",
       "webextension"
     ],
-    "updated_at": "2026-05-22T16:01:53Z"
+    "updated_at": "2026-05-25T08:27:42Z"
   },
   {
     "name": "permissionlesstech/bitchat-android",
     "url": "https://github.com/permissionlesstech/bitchat-android",
     "description": "bluetooth mesh chat, IRC vibes",
-    "stars": 5462,
+    "stars": 5465,
     "language": "Kotlin",
     "category": "Termux / Android Linux",
     "topics": [],
-    "updated_at": "2026-05-24T07:09:40Z"
+    "updated_at": "2026-05-25T01:09:48Z"
   },
   {
     "name": "shadps4-emu/shadPS4-launcher",
@@ -184,7 +184,7 @@
     "name": "immich-app/immich",
     "url": "https://github.com/immich-app/immich",
     "description": "High performance self-hosted photo and video management solution.",
-    "stars": 101516,
+    "stars": 101764,
     "language": "TypeScript",
     "category": "Media / Audio / Video",
     "topics": [
@@ -205,23 +205,23 @@
       "typescript",
       "videos"
     ],
-    "updated_at": "2026-05-24T08:11:02Z"
+    "updated_at": "2026-05-25T09:42:13Z"
   },
   {
     "name": "bkerler/Loaders",
     "url": "https://github.com/bkerler/Loaders",
     "description": "EDL Loaders",
-    "stars": 489,
+    "stars": 491,
     "language": "Unknown",
     "category": "Other Interesting Tools",
     "topics": [],
-    "updated_at": "2026-05-18T03:57:32Z"
+    "updated_at": "2026-05-24T22:29:54Z"
   },
   {
     "name": "edk2-porting/edk2-msm",
     "url": "https://github.com/edk2-porting/edk2-msm",
     "description": "Broken edk2 port for Qualcomm platforms xD",
-    "stars": 2563,
+    "stars": 2564,
     "language": "ASL",
     "category": "System Tools",
     "topics": [
@@ -232,7 +232,7 @@
       "uefi-firmware",
       "windows-on-arm"
     ],
-    "updated_at": "2026-05-23T12:53:50Z"
+    "updated_at": "2026-05-24T18:45:29Z"
   },
   {
     "name": "anvaka/map-of-github",
@@ -248,11 +248,11 @@
     "name": "laramies/metagoofil",
     "url": "https://github.com/laramies/metagoofil",
     "description": "Metadata harvester",
-    "stars": 1262,
+    "stars": 1263,
     "language": "Python",
     "category": "Development / Coding",
     "topics": [],
-    "updated_at": "2026-05-23T13:15:21Z"
+    "updated_at": "2026-05-24T12:38:42Z"
   },
   {
     "name": "jaakkopasanen/AutoEq",
@@ -262,13 +262,13 @@
     "language": "Python",
     "category": "Development / Coding",
     "topics": [],
-    "updated_at": "2026-05-24T02:48:15Z"
+    "updated_at": "2026-05-25T07:32:14Z"
   },
   {
     "name": "dylanaraps/pure-bash-bible",
     "url": "https://github.com/dylanaraps/pure-bash-bible",
     "description": "📖 A collection of pure bash alternatives to external processes.",
-    "stars": 41598,
+    "stars": 41606,
     "language": "Shell",
     "category": "Termux / Android Linux",
     "topics": [
@@ -285,7 +285,7 @@
       "shell",
       "shell-scripts"
     ],
-    "updated_at": "2026-05-24T08:06:33Z"
+    "updated_at": "2026-05-25T09:43:53Z"
   },
   {
     "name": "noahbliss/Viper4Linux",
@@ -366,11 +366,11 @@
     "name": "facebookresearch/DensePose",
     "url": "https://github.com/facebookresearch/DensePose",
     "description": "A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body",
-    "stars": 7233,
+    "stars": 7232,
     "language": "Jupyter Notebook",
     "category": "Media / Audio / Video",
     "topics": [],
-    "updated_at": "2026-05-23T14:00:53Z"
+    "updated_at": "2026-05-25T09:30:33Z"
   },
   {
     "name": "K3V1991/ADB-and-FastbootPlusPlus",
@@ -420,14 +420,14 @@
     "name": "webosbrew/webos-homebrew-channel",
     "url": "https://github.com/webosbrew/webos-homebrew-channel",
     "description": "Unofficial webOS TV homebrew store and root-related tooling",
-    "stars": 1244,
+    "stars": 1247,
     "language": "JavaScript",
     "category": "Development / Coding",
     "topics": [
       "enyo",
       "webos"
     ],
-    "updated_at": "2026-05-23T14:01:09Z"
+    "updated_at": "2026-05-25T07:46:21Z"
   },
   {
     "name": "maaaaz/smbmap",
@@ -443,7 +443,7 @@
     "name": "Hack-with-Github/Awesome-Hacking",
     "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
     "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
-    "stars": 112956,
+    "stars": 113027,
     "language": "Unknown",
     "category": "Security / Hacking",
     "topics": [
@@ -457,13 +457,13 @@
       "reverse-engineering",
       "security"
     ],
-    "updated_at": "2026-05-24T07:13:47Z"
+    "updated_at": "2026-05-25T09:10:37Z"
   },
   {
     "name": "yuliskov/SmartTube",
     "url": "https://github.com/yuliskov/SmartTube",
     "description": "Browse media content with your own rules on Android TV",
-    "stars": 30194,
+    "stars": 30212,
     "language": "Java",
     "category": "Termux / Android Linux",
     "topics": [
@@ -475,7 +475,7 @@
       "retrofit2",
       "rxjava-android"
     ],
-    "updated_at": "2026-05-24T07:38:37Z"
+    "updated_at": "2026-05-25T09:42:08Z"
   },
   {
     "name": "AlexxIT/SonoffLAN",
@@ -550,7 +550,7 @@
     "name": "firecracker-microvm/firecracker",
     "url": "https://github.com/firecracker-microvm/firecracker",
     "description": "Secure and fast microVMs for serverless computing.",
-    "stars": 34547,
+    "stars": 34561,
     "language": "Rust",
     "category": "Development / Coding",
     "topics": [
@@ -564,7 +564,7 @@
       "virtual-machine",
       "virtualization"
     ],
-    "updated_at": "2026-05-24T02:09:34Z"
+    "updated_at": "2026-05-25T08:20:56Z"
   },
   {
     "name": "adde88/openwrt-useful-tools",
@@ -611,11 +611,11 @@
     "name": "grant-h/qu1ckr00t",
     "url": "https://github.com/grant-h/qu1ckr00t",
     "description": "A PoC application demonstrating the power of an Android kernel arbitrary R/W.",
-    "stars": 444,
+    "stars": 445,
     "language": "C",
     "category": "Termux / Android Linux",
     "topics": [],
-    "updated_at": "2026-05-17T07:50:36Z"
+    "updated_at": "2026-05-25T04:02:19Z"
   },
   {
     "name": "xbmc/xbmc",
@@ -643,7 +643,7 @@
       "xbmc",
       "xml"
     ],
-    "updated_at": "2026-05-24T07:01:17Z"
+    "updated_at": "2026-05-25T07:53:07Z"
   },
   {
     "name": "brannondorsey/mitm-router",
@@ -696,7 +696,7 @@
     "name": "abishekvashok/cmatrix",
     "url": "https://github.com/abishekvashok/cmatrix",
     "description": "Terminal based \"The Matrix\" like implementation",
-    "stars": 5082,
+    "stars": 5084,
     "language": "C",
     "category": "Other Interesting Tools",
     "topics": [
@@ -704,7 +704,7 @@
       "matrix",
       "screensaver"
     ],
-    "updated_at": "2026-05-24T01:40:15Z"
+    "updated_at": "2026-05-25T06:46:20Z"
   },
   {
     "name": "jkush321/dSploitScripts",
@@ -849,11 +849,11 @@
     "name": "razzeee/script.trakt",
     "url": "https://github.com/razzeee/script.trakt",
     "description": "Trakt.tv movie and TV show scrobbler for Kodi",
-    "stars": 356,
+    "stars": 357,
     "language": "Python",
     "category": "Development / Coding",
     "topics": [],
-    "updated_at": "2026-05-21T23:24:48Z"
+    "updated_at": "2026-05-24T20:58:09Z"
   },
   {
     "name": "meefik/linuxdeploy",
