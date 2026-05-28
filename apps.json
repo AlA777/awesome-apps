@@ -13,7 +13,7 @@
     "name": "Devolutions/UniGetUI",
     "url": "https://github.com/Devolutions/UniGetUI",
     "description": "UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers",
-    "stars": 24039,
+    "stars": 24071,
     "language": "C#",
     "category": "System Tools",
     "topics": [
@@ -30,7 +30,7 @@
       "windows-11",
       "winget"
     ],
-    "updated_at": "2026-05-27T07:03:01Z"
+    "updated_at": "2026-05-28T08:55:26Z"
   },
   {
     "name": "Incipiens/WindowsControlCenter",
@@ -59,7 +59,7 @@
     "name": "mustaffxx/usb-host-shield-mouse",
     "url": "https://github.com/mustaffxx/usb-host-shield-mouse",
     "description": "A simply trick for interpret a 16-bit/axis mouse using USB_Host_Shield_2.0. (Logitech G502)",
-    "stars": 74,
+    "stars": 75,
     "language": "C++",
     "category": "Other Interesting Tools",
     "topics": [
@@ -69,7 +69,7 @@
       "usb-host",
       "usb-host-shield"
     ],
-    "updated_at": "2026-04-23T15:12:00Z"
+    "updated_at": "2026-05-27T09:46:32Z"
   },
   {
     "name": "mohammadmahdi-termux/hackCCTV",
@@ -98,7 +98,7 @@
     "name": "DISTRHO/Cardinal",
     "url": "https://github.com/DISTRHO/Cardinal",
     "description": "Virtual modular synthesizer plugin",
-    "stars": 3045,
+    "stars": 3047,
     "language": "C++",
     "category": "Media / Audio / Video",
     "topics": [
@@ -109,7 +109,7 @@
       "vcvrack",
       "vst-plugin"
     ],
-    "updated_at": "2026-05-27T02:11:34Z"
+    "updated_at": "2026-05-27T17:49:52Z"
   },
   {
     "name": "Dreamlinerm/Netflix-Prime-Auto-Skip",
@@ -144,11 +144,11 @@
     "name": "permissionlesstech/bitchat-android",
     "url": "https://github.com/permissionlesstech/bitchat-android",
     "description": "bluetooth mesh chat, IRC vibes",
-    "stars": 5468,
+    "stars": 5470,
     "language": "Kotlin",
     "category": "Termux / Android Linux",
     "topics": [],
-    "updated_at": "2026-05-27T00:04:19Z"
+    "updated_at": "2026-05-27T15:17:36Z"
   },
   {
     "name": "shadps4-emu/shadPS4-launcher",
@@ -194,7 +194,7 @@
     "name": "immich-app/immich",
     "url": "https://github.com/immich-app/immich",
     "description": "High performance self-hosted photo and video management solution.",
-    "stars": 101983,
+    "stars": 102103,
     "language": "TypeScript",
     "category": "Media / Audio / Video",
     "topics": [
@@ -215,17 +215,17 @@
       "typescript",
       "videos"
     ],
-    "updated_at": "2026-05-27T09:17:15Z"
+    "updated_at": "2026-05-28T09:44:26Z"
   },
   {
     "name": "bkerler/Loaders",
     "url": "https://github.com/bkerler/Loaders",
     "description": "EDL Loaders",
-    "stars": 493,
+    "stars": 494,
     "language": "Unknown",
     "category": "Other Interesting Tools",
     "topics": [],
-    "updated_at": "2026-05-26T08:12:10Z"
+    "updated_at": "2026-05-27T20:19:18Z"
   },
   {
     "name": "edk2-porting/edk2-msm",
@@ -268,17 +268,17 @@
     "name": "jaakkopasanen/AutoEq",
     "url": "https://github.com/jaakkopasanen/AutoEq",
     "description": "Automatic headphone equalization from frequency responses",
-    "stars": 15830,
+    "stars": 15835,
     "language": "Python",
     "category": "Development / Coding",
     "topics": [],
-    "updated_at": "2026-05-26T21:39:33Z"
+    "updated_at": "2026-05-28T00:52:53Z"
   },
   {
     "name": "dylanaraps/pure-bash-bible",
     "url": "https://github.com/dylanaraps/pure-bash-bible",
     "description": "📖 A collection of pure bash alternatives to external processes.",
-    "stars": 41611,
+    "stars": 41613,
     "language": "Shell",
     "category": "Termux / Android Linux",
     "topics": [
@@ -295,7 +295,7 @@
       "shell",
       "shell-scripts"
     ],
-    "updated_at": "2026-05-27T07:35:38Z"
+    "updated_at": "2026-05-27T20:29:51Z"
   },
   {
     "name": "noahbliss/Viper4Linux",
@@ -341,7 +341,7 @@
     "name": "nextcloud/nextcloudpi",
     "url": "https://github.com/nextcloud/nextcloudpi",
     "description": "📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, curl installer...",
-    "stars": 2902,
+    "stars": 2901,
     "language": "Shell",
     "category": "Termux / Android Linux",
     "topics": [
@@ -352,7 +352,7 @@
       "raspbian",
       "x86-64"
     ],
-    "updated_at": "2026-05-27T00:08:09Z"
+    "updated_at": "2026-05-27T11:11:01Z"
   },
   {
     "name": "152334H/MiniGPT-4-discord-bot",
@@ -376,11 +376,11 @@
     "name": "facebookresearch/DensePose",
     "url": "https://github.com/facebookresearch/DensePose",
     "description": "A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body",
-    "stars": 7232,
+    "stars": 7233,
     "language": "Jupyter Notebook",
     "category": "Media / Audio / Video",
     "topics": [],
-    "updated_at": "2026-05-27T07:13:41Z"
+    "updated_at": "2026-05-27T10:37:17Z"
   },
   {
     "name": "K3V1991/ADB-and-FastbootPlusPlus",
@@ -453,7 +453,7 @@
     "name": "Hack-with-Github/Awesome-Hacking",
     "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
     "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
-    "stars": 113160,
+    "stars": 113242,
     "language": "Unknown",
     "category": "Security / Hacking",
     "topics": [
@@ -467,13 +467,13 @@
       "reverse-engineering",
       "security"
     ],
-    "updated_at": "2026-05-27T08:16:20Z"
+    "updated_at": "2026-05-28T09:27:36Z"
   },
   {
     "name": "yuliskov/SmartTube",
     "url": "https://github.com/yuliskov/SmartTube",
     "description": "Browse media content with your own rules on Android TV",
-    "stars": 30239,
+    "stars": 30244,
     "language": "Java",
     "category": "Termux / Android Linux",
     "topics": [
@@ -485,13 +485,13 @@
       "retrofit2",
       "rxjava-android"
     ],
-    "updated_at": "2026-05-27T08:54:25Z"
+    "updated_at": "2026-05-28T09:28:56Z"
   },
   {
     "name": "AlexxIT/SonoffLAN",
     "url": "https://github.com/AlexxIT/SonoffLAN",
     "description": "Control Sonoff Devices with eWeLink (original) firmware over LAN and/or Cloud from Home Assistant",
-    "stars": 3243,
+    "stars": 3244,
     "language": "Python",
     "category": "Development / Coding",
     "topics": [
@@ -500,7 +500,7 @@
       "home-assistant",
       "sonoff"
     ],
-    "updated_at": "2026-05-26T11:04:41Z"
+    "updated_at": "2026-05-27T13:48:38Z"
   },
   {
     "name": "stephane-r/HoloPlay",
@@ -526,7 +526,7 @@
     "name": "PokeMiners/pogo_assets",
     "url": "https://github.com/PokeMiners/pogo_assets",
     "description": "Repository of all mined assets including sprites, news items, sound files, translations, and 3D Assets for Pokemon GO.",
-    "stars": 484,
+    "stars": 485,
     "language": "Unknown",
     "category": "Termux / Android Linux",
     "topics": [
@@ -535,7 +535,7 @@
       "niantic",
       "pokemon-go"
     ],
-    "updated_at": "2026-05-23T00:02:28Z"
+    "updated_at": "2026-05-27T20:45:22Z"
   },
   {
     "name": "securitytxt/security-txt",
@@ -560,7 +560,7 @@
     "name": "firecracker-microvm/firecracker",
     "url": "https://github.com/firecracker-microvm/firecracker",
     "description": "Secure and fast microVMs for serverless computing.",
-    "stars": 34611,
+    "stars": 34629,
     "language": "Rust",
     "category": "Development / Coding",
     "topics": [
@@ -574,13 +574,13 @@
       "virtual-machine",
       "virtualization"
     ],
-    "updated_at": "2026-05-27T09:27:43Z"
+    "updated_at": "2026-05-28T09:41:09Z"
   },
   {
     "name": "adde88/openwrt-useful-tools",
     "url": "https://github.com/adde88/openwrt-useful-tools",
     "description": "A repo containing different tools compiled specifically for the Hak5 WiFi Pineapple MK6 and MK7.",
-    "stars": 296,
+    "stars": 297,
     "language": "Standard ML",
     "category": "Security / Hacking",
     "topics": [
@@ -605,7 +605,7 @@
       "wifi",
       "wireless"
     ],
-    "updated_at": "2026-05-22T20:29:06Z"
+    "updated_at": "2026-05-27T09:30:49Z"
   },
   {
     "name": "hahwul/metasploit-autopwn",
@@ -631,7 +631,7 @@
     "name": "xbmc/xbmc",
     "url": "https://github.com/xbmc/xbmc",
     "description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.",
-    "stars": 20785,
+    "stars": 20788,
     "language": "C++",
     "category": "Termux / Android Linux",
     "topics": [
@@ -653,7 +653,7 @@
       "xbmc",
       "xml"
     ],
-    "updated_at": "2026-05-27T04:13:33Z"
+    "updated_at": "2026-05-28T09:07:19Z"
   },
   {
     "name": "brannondorsey/mitm-router",
@@ -706,7 +706,7 @@
     "name": "abishekvashok/cmatrix",
     "url": "https://github.com/abishekvashok/cmatrix",
     "description": "Terminal based \"The Matrix\" like implementation",
-    "stars": 5090,
+    "stars": 5093,
     "language": "C",
     "category": "Other Interesting Tools",
     "topics": [
@@ -714,7 +714,7 @@
       "matrix",
       "screensaver"
     ],
-    "updated_at": "2026-05-26T16:54:45Z"
+    "updated_at": "2026-05-28T07:55:28Z"
   },
   {
     "name": "jkush321/dSploitScripts",
@@ -730,11 +730,11 @@
     "name": "john9527/asuswrt-merlin",
     "url": "https://github.com/john9527/asuswrt-merlin",
     "description": "Fork of earlier asuswrt-merlin router firmware",
-    "stars": 385,
+    "stars": 384,
     "language": "Unknown",
     "category": "Other Interesting Tools",
     "topics": [],
-    "updated_at": "2026-03-20T15:22:25Z"
+    "updated_at": "2026-05-27T12:01:51Z"
   },
   {
     "name": "frederic/pflupg-tool",
@@ -750,7 +750,7 @@
     "name": "Entware/Entware-ng",
     "url": "https://github.com/Entware/Entware-ng",
     "description": "Entware-ng",
-    "stars": 1213,
+    "stars": 1214,
     "language": "C",
     "category": "Other Interesting Tools",
     "topics": [
@@ -758,7 +758,7 @@
       "deprecated",
       "entware-ng"
     ],
-    "updated_at": "2026-05-13T18:42:06Z"
+    "updated_at": "2026-05-28T09:11:55Z"
   },
   {
     "name": "Disassembler0/Win10-Initial-Setup-Script",
@@ -869,7 +869,7 @@
     "name": "meefik/linuxdeploy",
     "url": "https://github.com/meefik/linuxdeploy",
     "description": "Install and run GNU/Linux on Android",
-    "stars": 5847,
+    "stars": 5848,
     "language": "Java",
     "category": "Termux / Android Linux",
     "topics": [
@@ -879,6 +879,6 @@
       "deployment",
       "linux"
     ],
-    "updated_at": "2026-05-27T09:18:03Z"
+    "updated_at": "2026-05-27T11:14:11Z"
   }
 ]
