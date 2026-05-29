@@ -1,5 +1,20 @@
 [
   {
+    "name": "lucasg/Dependencies",
+    "url": "https://github.com/lucasg/Dependencies",
+    "description": "A rewrite of the old legacy software \"depends.exe\" in C# for Windows devs to troubleshoot dll load dependencies issues.",
+    "stars": 11538,
+    "language": "C#",
+    "category": "System Tools",
+    "topics": [
+      "csharp",
+      "dll",
+      "windows",
+      "wpf"
+    ],
+    "updated_at": "2026-05-29T09:05:21Z"
+  },
+  {
     "name": "pizi-0/flutter-scrcpygui-companion",
     "url": "https://github.com/pizi-0/flutter-scrcpygui-companion",
     "description": "A companion Android app for Scrcpy GUI",
@@ -13,7 +28,7 @@
     "name": "Devolutions/UniGetUI",
     "url": "https://github.com/Devolutions/UniGetUI",
     "description": "UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers",
-    "stars": 24071,
+    "stars": 24110,
     "language": "C#",
     "category": "System Tools",
     "topics": [
@@ -30,7 +45,7 @@
       "windows-11",
       "winget"
     ],
-    "updated_at": "2026-05-28T08:55:26Z"
+    "updated_at": "2026-05-29T09:35:10Z"
   },
   {
     "name": "Incipiens/WindowsControlCenter",
@@ -98,7 +113,7 @@
     "name": "DISTRHO/Cardinal",
     "url": "https://github.com/DISTRHO/Cardinal",
     "description": "Virtual modular synthesizer plugin",
-    "stars": 3047,
+    "stars": 3049,
     "language": "C++",
     "category": "Media / Audio / Video",
     "topics": [
@@ -109,7 +124,7 @@
       "vcvrack",
       "vst-plugin"
     ],
-    "updated_at": "2026-05-27T17:49:52Z"
+    "updated_at": "2026-05-29T04:26:08Z"
   },
   {
     "name": "Dreamlinerm/Netflix-Prime-Auto-Skip",
@@ -144,11 +159,11 @@
     "name": "permissionlesstech/bitchat-android",
     "url": "https://github.com/permissionlesstech/bitchat-android",
     "description": "bluetooth mesh chat, IRC vibes",
-    "stars": 5470,
+    "stars": 5471,
     "language": "Kotlin",
     "category": "Termux / Android Linux",
     "topics": [],
-    "updated_at": "2026-05-27T15:17:36Z"
+    "updated_at": "2026-05-28T17:14:22Z"
   },
   {
     "name": "shadps4-emu/shadPS4-launcher",
@@ -194,7 +209,7 @@
     "name": "immich-app/immich",
     "url": "https://github.com/immich-app/immich",
     "description": "High performance self-hosted photo and video management solution.",
-    "stars": 102103,
+    "stars": 102186,
     "language": "TypeScript",
     "category": "Media / Audio / Video",
     "topics": [
@@ -215,7 +230,7 @@
       "typescript",
       "videos"
     ],
-    "updated_at": "2026-05-28T09:44:26Z"
+    "updated_at": "2026-05-29T09:27:48Z"
   },
   {
     "name": "bkerler/Loaders",
@@ -231,7 +246,7 @@
     "name": "edk2-porting/edk2-msm",
     "url": "https://github.com/edk2-porting/edk2-msm",
     "description": "Broken edk2 port for Qualcomm platforms xD",
-    "stars": 2564,
+    "stars": 2560,
     "language": "ASL",
     "category": "System Tools",
     "topics": [
@@ -242,7 +257,7 @@
       "uefi-firmware",
       "windows-on-arm"
     ],
-    "updated_at": "2026-05-24T18:45:29Z"
+    "updated_at": "2026-05-28T10:32:22Z"
   },
   {
     "name": "anvaka/map-of-github",
@@ -268,17 +283,17 @@
     "name": "jaakkopasanen/AutoEq",
     "url": "https://github.com/jaakkopasanen/AutoEq",
     "description": "Automatic headphone equalization from frequency responses",
-    "stars": 15835,
+    "stars": 15839,
     "language": "Python",
     "category": "Development / Coding",
     "topics": [],
-    "updated_at": "2026-05-28T00:52:53Z"
+    "updated_at": "2026-05-29T09:23:30Z"
   },
   {
     "name": "dylanaraps/pure-bash-bible",
     "url": "https://github.com/dylanaraps/pure-bash-bible",
     "description": "📖 A collection of pure bash alternatives to external processes.",
-    "stars": 41613,
+    "stars": 41617,
     "language": "Shell",
     "category": "Termux / Android Linux",
     "topics": [
@@ -295,7 +310,7 @@
       "shell",
       "shell-scripts"
     ],
-    "updated_at": "2026-05-27T20:29:51Z"
+    "updated_at": "2026-05-29T08:44:31Z"
   },
   {
     "name": "noahbliss/Viper4Linux",
@@ -376,11 +391,11 @@
     "name": "facebookresearch/DensePose",
     "url": "https://github.com/facebookresearch/DensePose",
     "description": "A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body",
-    "stars": 7233,
+    "stars": 7235,
     "language": "Jupyter Notebook",
     "category": "Media / Audio / Video",
     "topics": [],
-    "updated_at": "2026-05-27T10:37:17Z"
+    "updated_at": "2026-05-28T22:01:36Z"
   },
   {
     "name": "K3V1991/ADB-and-FastbootPlusPlus",
@@ -430,14 +445,14 @@
     "name": "webosbrew/webos-homebrew-channel",
     "url": "https://github.com/webosbrew/webos-homebrew-channel",
     "description": "Unofficial webOS TV homebrew store and root-related tooling",
-    "stars": 1248,
+    "stars": 1249,
     "language": "JavaScript",
     "category": "Development / Coding",
     "topics": [
       "enyo",
       "webos"
     ],
-    "updated_at": "2026-05-25T18:06:22Z"
+    "updated_at": "2026-05-28T10:28:13Z"
   },
   {
     "name": "maaaaz/smbmap",
@@ -453,7 +468,7 @@
     "name": "Hack-with-Github/Awesome-Hacking",
     "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
     "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
-    "stars": 113242,
+    "stars": 113311,
     "language": "Unknown",
     "category": "Security / Hacking",
     "topics": [
@@ -467,13 +482,13 @@
       "reverse-engineering",
       "security"
     ],
-    "updated_at": "2026-05-28T09:27:36Z"
+    "updated_at": "2026-05-29T09:22:37Z"
   },
   {
     "name": "yuliskov/SmartTube",
     "url": "https://github.com/yuliskov/SmartTube",
     "description": "Browse media content with your own rules on Android TV",
-    "stars": 30244,
+    "stars": 30261,
     "language": "Java",
     "category": "Termux / Android Linux",
     "topics": [
@@ -485,7 +500,7 @@
       "retrofit2",
       "rxjava-android"
     ],
-    "updated_at": "2026-05-28T09:28:56Z"
+    "updated_at": "2026-05-29T08:16:48Z"
   },
   {
     "name": "AlexxIT/SonoffLAN",
@@ -560,7 +575,7 @@
     "name": "firecracker-microvm/firecracker",
     "url": "https://github.com/firecracker-microvm/firecracker",
     "description": "Secure and fast microVMs for serverless computing.",
-    "stars": 34629,
+    "stars": 34650,
     "language": "Rust",
     "category": "Development / Coding",
     "topics": [
@@ -574,7 +589,7 @@
       "virtual-machine",
       "virtualization"
     ],
-    "updated_at": "2026-05-28T09:41:09Z"
+    "updated_at": "2026-05-29T08:45:53Z"
   },
   {
     "name": "adde88/openwrt-useful-tools",
@@ -631,7 +646,7 @@
     "name": "xbmc/xbmc",
     "url": "https://github.com/xbmc/xbmc",
     "description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.",
-    "stars": 20788,
+    "stars": 20789,
     "language": "C++",
     "category": "Termux / Android Linux",
     "topics": [
@@ -653,7 +668,7 @@
       "xbmc",
       "xml"
     ],
-    "updated_at": "2026-05-28T09:07:19Z"
+    "updated_at": "2026-05-29T03:18:10Z"
   },
   {
     "name": "brannondorsey/mitm-router",
@@ -688,7 +703,7 @@
     "name": "seemoo-lab/nexmon",
     "url": "https://github.com/seemoo-lab/nexmon",
     "description": "The C-based Firmware Patching Framework for Broadcom/Cypress WiFi Chips that enables Monitor Mode, Frame Injection and much more",
-    "stars": 2818,
+    "stars": 2820,
     "language": "C",
     "category": "Security / Hacking",
     "topics": [
@@ -700,7 +715,7 @@
       "rpi",
       "smartphone"
     ],
-    "updated_at": "2026-05-25T19:16:46Z"
+    "updated_at": "2026-05-29T02:34:50Z"
   },
   {
     "name": "abishekvashok/cmatrix",
@@ -806,14 +821,14 @@
     "name": "OpenVPN/openvpn-gui",
     "url": "https://github.com/OpenVPN/openvpn-gui",
     "description": "OpenVPN GUI is a graphical frontend for OpenVPN running on Windows (10 and 11). It creates an icon in the notification area from which you can control OpenVPN to start/stop your VPN tunnels, view the log and do other useful things.",
-    "stars": 1756,
+    "stars": 1757,
     "language": "C",
     "category": "Security / Hacking",
     "topics": [
       "security",
       "vpn-client"
     ],
-    "updated_at": "2026-05-26T16:17:53Z"
+    "updated_at": "2026-05-29T02:04:36Z"
   },
   {
     "name": "mandatoryprogrammer/xssless",
@@ -869,7 +884,7 @@
     "name": "meefik/linuxdeploy",
     "url": "https://github.com/meefik/linuxdeploy",
     "description": "Install and run GNU/Linux on Android",
-    "stars": 5848,
+    "stars": 5849,
     "language": "Java",
     "category": "Termux / Android Linux",
     "topics": [
@@ -879,6 +894,6 @@
       "deployment",
       "linux"
     ],
-    "updated_at": "2026-05-27T11:14:11Z"
+    "updated_at": "2026-05-29T00:59:55Z"
   }
 ]
