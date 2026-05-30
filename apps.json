@@ -1,9 +1,29 @@
 [
   {
+    "name": "BatchDrake/SigDigger",
+    "url": "https://github.com/BatchDrake/SigDigger",
+    "description": "Qt-based digital signal analyzer, using Suscan core and Sigutils DSP library",
+    "stars": 2378,
+    "language": "C++",
+    "category": "Termux / Android Linux",
+    "topics": [
+      "ask",
+      "digital-signal-analyzer",
+      "fsk",
+      "gqrx",
+      "linux",
+      "psk",
+      "qt",
+      "sdr",
+      "soapysdr"
+    ],
+    "updated_at": "2026-05-30T06:33:49Z"
+  },
+  {
     "name": "lucasg/Dependencies",
     "url": "https://github.com/lucasg/Dependencies",
     "description": "A rewrite of the old legacy software \"depends.exe\" in C# for Windows devs to troubleshoot dll load dependencies issues.",
-    "stars": 11538,
+    "stars": 11541,
     "language": "C#",
     "category": "System Tools",
     "topics": [
@@ -12,7 +32,7 @@
       "windows",
       "wpf"
     ],
-    "updated_at": "2026-05-29T09:05:21Z"
+    "updated_at": "2026-05-30T07:45:13Z"
   },
   {
     "name": "pizi-0/flutter-scrcpygui-companion",
@@ -28,7 +48,7 @@
     "name": "Devolutions/UniGetUI",
     "url": "https://github.com/Devolutions/UniGetUI",
     "description": "UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers",
-    "stars": 24110,
+    "stars": 24138,
     "language": "C#",
     "category": "System Tools",
     "topics": [
@@ -45,7 +65,7 @@
       "windows-11",
       "winget"
     ],
-    "updated_at": "2026-05-29T09:35:10Z"
+    "updated_at": "2026-05-30T07:27:07Z"
   },
   {
     "name": "Incipiens/WindowsControlCenter",
@@ -90,7 +110,7 @@
     "name": "mohammadmahdi-termux/hackCCTV",
     "url": "https://github.com/mohammadmahdi-termux/hackCCTV",
     "description": "Hackcctv",
-    "stars": 296,
+    "stars": 297,
     "language": "Python",
     "category": "Network / ONVIF / IP Cameras",
     "topics": [
@@ -107,13 +127,13 @@
       "python",
       "termux"
     ],
-    "updated_at": "2026-05-23T14:54:05Z"
+    "updated_at": "2026-05-29T17:22:52Z"
   },
   {
     "name": "DISTRHO/Cardinal",
     "url": "https://github.com/DISTRHO/Cardinal",
     "description": "Virtual modular synthesizer plugin",
-    "stars": 3049,
+    "stars": 3051,
     "language": "C++",
     "category": "Media / Audio / Video",
     "topics": [
@@ -124,7 +144,7 @@
       "vcvrack",
       "vst-plugin"
     ],
-    "updated_at": "2026-05-29T04:26:08Z"
+    "updated_at": "2026-05-29T11:26:55Z"
   },
   {
     "name": "Dreamlinerm/Netflix-Prime-Auto-Skip",
@@ -153,17 +173,17 @@
       "primevideo",
       "webextension"
     ],
-    "updated_at": "2026-05-27T02:40:10Z"
+    "updated_at": "2026-05-30T07:34:22Z"
   },
   {
     "name": "permissionlesstech/bitchat-android",
     "url": "https://github.com/permissionlesstech/bitchat-android",
     "description": "bluetooth mesh chat, IRC vibes",
-    "stars": 5471,
+    "stars": 5472,
     "language": "Kotlin",
     "category": "Termux / Android Linux",
     "topics": [],
-    "updated_at": "2026-05-28T17:14:22Z"
+    "updated_at": "2026-05-30T08:01:16Z"
   },
   {
     "name": "shadps4-emu/shadPS4-launcher",
@@ -209,7 +229,7 @@
     "name": "immich-app/immich",
     "url": "https://github.com/immich-app/immich",
     "description": "High performance self-hosted photo and video management solution.",
-    "stars": 102186,
+    "stars": 102248,
     "language": "TypeScript",
     "category": "Media / Audio / Video",
     "topics": [
@@ -230,7 +250,7 @@
       "typescript",
       "videos"
     ],
-    "updated_at": "2026-05-29T09:27:48Z"
+    "updated_at": "2026-05-30T08:14:27Z"
   },
   {
     "name": "bkerler/Loaders",
@@ -273,21 +293,21 @@
     "name": "laramies/metagoofil",
     "url": "https://github.com/laramies/metagoofil",
     "description": "Metadata harvester",
-    "stars": 1264,
+    "stars": 1266,
     "language": "Python",
     "category": "Development / Coding",
     "topics": [],
-    "updated_at": "2026-05-26T09:23:04Z"
+    "updated_at": "2026-05-29T22:07:17Z"
   },
   {
     "name": "jaakkopasanen/AutoEq",
     "url": "https://github.com/jaakkopasanen/AutoEq",
     "description": "Automatic headphone equalization from frequency responses",
-    "stars": 15839,
+    "stars": 15842,
     "language": "Python",
     "category": "Development / Coding",
     "topics": [],
-    "updated_at": "2026-05-29T09:23:30Z"
+    "updated_at": "2026-05-30T07:11:13Z"
   },
   {
     "name": "dylanaraps/pure-bash-bible",
@@ -310,7 +330,7 @@
       "shell",
       "shell-scripts"
     ],
-    "updated_at": "2026-05-29T08:44:31Z"
+    "updated_at": "2026-05-29T21:57:04Z"
   },
   {
     "name": "noahbliss/Viper4Linux",
@@ -391,11 +411,11 @@
     "name": "facebookresearch/DensePose",
     "url": "https://github.com/facebookresearch/DensePose",
     "description": "A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body",
-    "stars": 7235,
+    "stars": 7237,
     "language": "Jupyter Notebook",
     "category": "Media / Audio / Video",
     "topics": [],
-    "updated_at": "2026-05-28T22:01:36Z"
+    "updated_at": "2026-05-29T21:21:03Z"
   },
   {
     "name": "K3V1991/ADB-and-FastbootPlusPlus",
@@ -445,14 +465,14 @@
     "name": "webosbrew/webos-homebrew-channel",
     "url": "https://github.com/webosbrew/webos-homebrew-channel",
     "description": "Unofficial webOS TV homebrew store and root-related tooling",
-    "stars": 1249,
+    "stars": 1250,
     "language": "JavaScript",
     "category": "Development / Coding",
     "topics": [
       "enyo",
       "webos"
     ],
-    "updated_at": "2026-05-28T10:28:13Z"
+    "updated_at": "2026-05-29T14:15:28Z"
   },
   {
     "name": "maaaaz/smbmap",
@@ -468,7 +488,7 @@
     "name": "Hack-with-Github/Awesome-Hacking",
     "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
     "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
-    "stars": 113311,
+    "stars": 113375,
     "language": "Unknown",
     "category": "Security / Hacking",
     "topics": [
@@ -482,13 +502,13 @@
       "reverse-engineering",
       "security"
     ],
-    "updated_at": "2026-05-29T09:22:37Z"
+    "updated_at": "2026-05-30T07:40:16Z"
   },
   {
     "name": "yuliskov/SmartTube",
     "url": "https://github.com/yuliskov/SmartTube",
     "description": "Browse media content with your own rules on Android TV",
-    "stars": 30261,
+    "stars": 30278,
     "language": "Java",
     "category": "Termux / Android Linux",
     "topics": [
@@ -500,7 +520,7 @@
       "retrofit2",
       "rxjava-android"
     ],
-    "updated_at": "2026-05-29T08:16:48Z"
+    "updated_at": "2026-05-30T06:58:37Z"
   },
   {
     "name": "AlexxIT/SonoffLAN",
@@ -541,7 +561,7 @@
     "name": "PokeMiners/pogo_assets",
     "url": "https://github.com/PokeMiners/pogo_assets",
     "description": "Repository of all mined assets including sprites, news items, sound files, translations, and 3D Assets for Pokemon GO.",
-    "stars": 485,
+    "stars": 486,
     "language": "Unknown",
     "category": "Termux / Android Linux",
     "topics": [
@@ -550,7 +570,7 @@
       "niantic",
       "pokemon-go"
     ],
-    "updated_at": "2026-05-27T20:45:22Z"
+    "updated_at": "2026-05-30T03:29:27Z"
   },
   {
     "name": "securitytxt/security-txt",
@@ -575,7 +595,7 @@
     "name": "firecracker-microvm/firecracker",
     "url": "https://github.com/firecracker-microvm/firecracker",
     "description": "Secure and fast microVMs for serverless computing.",
-    "stars": 34650,
+    "stars": 34666,
     "language": "Rust",
     "category": "Development / Coding",
     "topics": [
@@ -589,7 +609,7 @@
       "virtual-machine",
       "virtualization"
     ],
-    "updated_at": "2026-05-29T08:45:53Z"
+    "updated_at": "2026-05-30T07:33:42Z"
   },
   {
     "name": "adde88/openwrt-useful-tools",
@@ -646,7 +666,7 @@
     "name": "xbmc/xbmc",
     "url": "https://github.com/xbmc/xbmc",
     "description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.",
-    "stars": 20789,
+    "stars": 20796,
     "language": "C++",
     "category": "Termux / Android Linux",
     "topics": [
@@ -668,7 +688,7 @@
       "xbmc",
       "xml"
     ],
-    "updated_at": "2026-05-29T03:18:10Z"
+    "updated_at": "2026-05-30T07:14:54Z"
   },
   {
     "name": "brannondorsey/mitm-router",
@@ -721,7 +741,7 @@
     "name": "abishekvashok/cmatrix",
     "url": "https://github.com/abishekvashok/cmatrix",
     "description": "Terminal based \"The Matrix\" like implementation",
-    "stars": 5093,
+    "stars": 5095,
     "language": "C",
     "category": "Other Interesting Tools",
     "topics": [
@@ -729,7 +749,7 @@
       "matrix",
       "screensaver"
     ],
-    "updated_at": "2026-05-28T07:55:28Z"
+    "updated_at": "2026-05-29T17:09:05Z"
   },
   {
     "name": "jkush321/dSploitScripts",
@@ -821,14 +841,14 @@
     "name": "OpenVPN/openvpn-gui",
     "url": "https://github.com/OpenVPN/openvpn-gui",
     "description": "OpenVPN GUI is a graphical frontend for OpenVPN running on Windows (10 and 11). It creates an icon in the notification area from which you can control OpenVPN to start/stop your VPN tunnels, view the log and do other useful things.",
-    "stars": 1757,
+    "stars": 1756,
     "language": "C",
     "category": "Security / Hacking",
     "topics": [
       "security",
       "vpn-client"
     ],
-    "updated_at": "2026-05-29T02:04:36Z"
+    "updated_at": "2026-05-30T05:56:09Z"
   },
   {
     "name": "mandatoryprogrammer/xssless",
@@ -864,11 +884,11 @@
     "name": "cSploit/android",
     "url": "https://github.com/cSploit/android",
     "description": "cSploit - The most complete and advanced IT security professional toolkit on Android.",
-    "stars": 3606,
+    "stars": 3607,
     "language": "Java",
     "category": "Security / Hacking",
     "topics": [],
-    "updated_at": "2026-05-26T19:24:09Z"
+    "updated_at": "2026-05-29T11:43:43Z"
   },
   {
     "name": "razzeee/script.trakt",
@@ -884,7 +904,7 @@
     "name": "meefik/linuxdeploy",
     "url": "https://github.com/meefik/linuxdeploy",
     "description": "Install and run GNU/Linux on Android",
-    "stars": 5849,
+    "stars": 5850,
     "language": "Java",
     "category": "Termux / Android Linux",
     "topics": [
@@ -894,6 +914,6 @@
       "deployment",
       "linux"
     ],
-    "updated_at": "2026-05-29T00:59:55Z"
+    "updated_at": "2026-05-30T02:04:27Z"
   }
 ]
