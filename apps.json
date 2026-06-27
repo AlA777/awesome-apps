@@ -68,11 +68,11 @@
     "name": "davidondrej/jailbreak-autoresearch",
     "url": "https://github.com/davidondrej/jailbreak-autoresearch",
     "description": "We shall set the models free.",
-    "stars": 419,
+    "stars": 424,
     "language": "Python",
     "category": "Development / Coding",
     "topics": [],
-    "updated_at": "2026-06-26T08:01:44Z"
+    "updated_at": "2026-06-27T07:01:10Z"
   },
   {
     "name": "0PandaDEV/awesome-windows",
@@ -93,7 +93,7 @@
     "name": "awesome-selfhosted/awesome-selfhosted",
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
     "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
-    "stars": 301215,
+    "stars": 301346,
     "language": "Unknown",
     "category": "Other Interesting Tools",
     "topics": [
@@ -106,7 +106,7 @@
       "self-hosted",
       "selfhosted"
     ],
-    "updated_at": "2026-06-26T08:34:35Z"
+    "updated_at": "2026-06-27T08:25:04Z"
   },
   {
     "name": "jmk-foofus/medusa",
@@ -139,7 +139,7 @@
       "comfyui",
       "stable-diffusion"
     ],
-    "updated_at": "2026-06-19T10:05:19Z"
+    "updated_at": "2026-06-27T04:22:27Z"
   },
   {
     "name": "Acly/krita-vision-tools",
@@ -155,7 +155,7 @@
     "name": "PatrickSt1991/vlc-tizen-tv",
     "url": "https://github.com/PatrickSt1991/vlc-tizen-tv",
     "description": "VLC Like player for your Samsung TV",
-    "stars": 8,
+    "stars": 9,
     "language": "JavaScript",
     "category": "Media / Audio / Video",
     "topics": [
@@ -164,7 +164,7 @@
       "vlc",
       "vlc-player"
     ],
-    "updated_at": "2026-06-20T23:56:41Z"
+    "updated_at": "2026-06-27T08:10:39Z"
   },
   {
     "name": "BiltuDas1/unlock-Bootloader",
@@ -243,7 +243,7 @@
     "name": "yt-dlp/yt-dlp",
     "url": "https://github.com/yt-dlp/yt-dlp",
     "description": "A feature-rich command-line audio/video downloader",
-    "stars": 173442,
+    "stars": 173605,
     "language": "Python",
     "category": "Media / Audio / Video",
     "topics": [
@@ -255,7 +255,7 @@
       "youtube-downloader",
       "yt-dlp"
     ],
-    "updated_at": "2026-06-26T08:49:25Z"
+    "updated_at": "2026-06-27T08:23:02Z"
   },
   {
     "name": "testanull/MS-SharePoint-July-Patch-RCE-PoC",
@@ -328,17 +328,17 @@
     "name": "vanhoefm/krackattacks-scripts",
     "url": "https://github.com/vanhoefm/krackattacks-scripts",
     "description": "No description",
-    "stars": 3514,
+    "stars": 3516,
     "language": "C",
     "category": "Other Interesting Tools",
     "topics": [],
-    "updated_at": "2026-06-25T11:18:04Z"
+    "updated_at": "2026-06-27T06:59:47Z"
   },
   {
     "name": "openrecall/openrecall",
     "url": "https://github.com/openrecall/openrecall",
     "description": "OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft's Windows Recall. With OpenRecall, you can easily access your digital history, enhancing your memory and productivity without compromising your privacy.",
-    "stars": 2869,
+    "stars": 2870,
     "language": "Python",
     "category": "System Tools",
     "topics": [
@@ -356,13 +356,13 @@
       "semantic",
       "windows"
     ],
-    "updated_at": "2026-06-26T02:43:00Z"
+    "updated_at": "2026-06-26T12:46:24Z"
   },
   {
     "name": "Y2Z/monolith",
     "url": "https://github.com/Y2Z/monolith",
     "description": "⬛️ CLI tool and library for saving complete web pages as a single HTML file",
-    "stars": 15301,
+    "stars": 15304,
     "language": "Rust",
     "category": "Development / Coding",
     "topics": [
@@ -375,13 +375,13 @@
       "save-the-internet",
       "tab-rehab"
     ],
-    "updated_at": "2026-06-26T08:11:34Z"
+    "updated_at": "2026-06-27T08:09:52Z"
   },
   {
     "name": "docker/awesome-compose",
     "url": "https://github.com/docker/awesome-compose",
     "description": "Awesome Docker Compose samples",
-    "stars": 45652,
+    "stars": 45684,
     "language": "HTML",
     "category": "Other Interesting Tools",
     "topics": [
@@ -389,7 +389,7 @@
       "awesome-list",
       "docker-compose"
     ],
-    "updated_at": "2026-06-26T08:43:44Z"
+    "updated_at": "2026-06-27T06:19:27Z"
   },
   {
     "name": "hexagonal-sun/ampkt",
@@ -448,7 +448,7 @@
     "name": "louislam/uptime-kuma",
     "url": "https://github.com/louislam/uptime-kuma",
     "description": "A fancy self-hosted monitoring tool",
-    "stars": 88441,
+    "stars": 88482,
     "language": "JavaScript",
     "category": "Development / Coding",
     "topics": [
@@ -465,17 +465,17 @@
       "webapp",
       "websocket"
     ],
-    "updated_at": "2026-06-26T08:22:26Z"
+    "updated_at": "2026-06-27T07:55:39Z"
   },
   {
     "name": "EliasKotlyar/Xiaomi-Dafang-Hacks",
     "url": "https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks",
     "description": "No description",
-    "stars": 4305,
+    "stars": 4306,
     "language": "Shell",
     "category": "Termux / Android Linux",
     "topics": [],
-    "updated_at": "2026-06-21T16:17:22Z"
+    "updated_at": "2026-06-27T05:34:17Z"
   },
   {
     "name": "burlizzi/YoloV7-ncnn-Raspberry-Pi-4",
@@ -491,7 +491,7 @@
     "name": "Astrosp/Awesome-OSINT-List",
     "url": "https://github.com/Astrosp/Awesome-OSINT-List",
     "description": "📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.",
-    "stars": 3516,
+    "stars": 3536,
     "language": "Shell",
     "category": "Security / Hacking",
     "topics": [
@@ -509,13 +509,13 @@
       "security-tools",
       "threat-intelligence"
     ],
-    "updated_at": "2026-06-26T07:16:29Z"
+    "updated_at": "2026-06-27T05:28:32Z"
   },
   {
     "name": "chrisk44/Hijacker",
     "url": "https://github.com/chrisk44/Hijacker",
     "description": "Aircrack, Airodump, Aireplay, MDK3 and Reaver GUI Application for Android",
-    "stars": 2535,
+    "stars": 2536,
     "language": "Java",
     "category": "Termux / Android Linux",
     "topics": [
@@ -528,13 +528,13 @@
       "wireless",
       "wpa"
     ],
-    "updated_at": "2026-06-23T08:38:01Z"
+    "updated_at": "2026-06-26T15:48:46Z"
   },
   {
     "name": "zacharee/Bifrost",
     "url": "https://github.com/zacharee/Bifrost",
     "description": "Cross-platform tool for downloading Samsung mobile device firmware.",
-    "stars": 1487,
+    "stars": 1489,
     "language": "Kotlin",
     "category": "Other Interesting Tools",
     "topics": [
@@ -543,7 +543,7 @@
       "kotlin-multiplatform",
       "samsung"
     ],
-    "updated_at": "2026-06-26T02:36:15Z"
+    "updated_at": "2026-06-27T07:03:56Z"
   },
   {
     "name": "arter97/android_kernel_oneplus_msm8998",
@@ -559,7 +559,7 @@
     "name": "BatchDrake/SigDigger",
     "url": "https://github.com/BatchDrake/SigDigger",
     "description": "Qt-based digital signal analyzer, using Suscan core and Sigutils DSP library",
-    "stars": 2482,
+    "stars": 2486,
     "language": "C++",
     "category": "Termux / Android Linux",
     "topics": [
@@ -573,13 +573,13 @@
       "sdr",
       "soapysdr"
     ],
-    "updated_at": "2026-06-26T00:26:47Z"
+    "updated_at": "2026-06-27T00:19:54Z"
   },
   {
     "name": "lucasg/Dependencies",
     "url": "https://github.com/lucasg/Dependencies",
     "description": "A rewrite of the old legacy software \"depends.exe\" in C# for Windows devs to troubleshoot dll load dependencies issues.",
-    "stars": 11638,
+    "stars": 11640,
     "language": "C#",
     "category": "System Tools",
     "topics": [
@@ -588,7 +588,7 @@
       "windows",
       "wpf"
     ],
-    "updated_at": "2026-06-26T06:15:16Z"
+    "updated_at": "2026-06-27T04:50:24Z"
   },
   {
     "name": "pizi-0/flutter-scrcpygui-companion",
@@ -604,7 +604,7 @@
     "name": "Devolutions/UniGetUI",
     "url": "https://github.com/Devolutions/UniGetUI",
     "description": "UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers",
-    "stars": 24737,
+    "stars": 24763,
     "language": "C#",
     "category": "System Tools",
     "topics": [
@@ -621,7 +621,7 @@
       "windows-11",
       "winget"
     ],
-    "updated_at": "2026-06-26T08:33:31Z"
+    "updated_at": "2026-06-27T08:12:15Z"
   },
   {
     "name": "Incipiens/WindowsControlCenter",
@@ -689,7 +689,7 @@
     "name": "DISTRHO/Cardinal",
     "url": "https://github.com/DISTRHO/Cardinal",
     "description": "Virtual modular synthesizer plugin",
-    "stars": 3082,
+    "stars": 3084,
     "language": "C++",
     "category": "Media / Audio / Video",
     "topics": [
@@ -700,13 +700,13 @@
       "vcvrack",
       "vst-plugin"
     ],
-    "updated_at": "2026-06-26T06:19:05Z"
+    "updated_at": "2026-06-26T17:40:33Z"
   },
   {
     "name": "Dreamlinerm/Netflix-Prime-Auto-Skip",
     "url": "https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip",
     "description": "Automatically skip Ads, Intros, Credits, etc. on all major Streaming services",
-    "stars": 568,
+    "stars": 569,
     "language": "JavaScript",
     "category": "Termux / Android Linux",
     "topics": [
@@ -729,17 +729,17 @@
       "primevideo",
       "webextension"
     ],
-    "updated_at": "2026-06-26T04:08:03Z"
+    "updated_at": "2026-06-27T03:44:10Z"
   },
   {
     "name": "permissionlesstech/bitchat-android",
     "url": "https://github.com/permissionlesstech/bitchat-android",
     "description": "bluetooth mesh chat, IRC vibes",
-    "stars": 5497,
+    "stars": 5498,
     "language": "Kotlin",
     "category": "Termux / Android Linux",
     "topics": [],
-    "updated_at": "2026-06-25T20:48:32Z"
+    "updated_at": "2026-06-27T06:41:51Z"
   },
   {
     "name": "shadps4-emu/shadPS4-launcher",
@@ -785,7 +785,7 @@
     "name": "immich-app/immich",
     "url": "https://github.com/immich-app/immich",
     "description": "High performance self-hosted photo and video management solution.",
-    "stars": 104449,
+    "stars": 104485,
     "language": "TypeScript",
     "category": "Media / Audio / Video",
     "topics": [
@@ -806,17 +806,17 @@
       "typescript",
       "videos"
     ],
-    "updated_at": "2026-06-26T08:47:16Z"
+    "updated_at": "2026-06-27T07:38:59Z"
   },
   {
     "name": "bkerler/Loaders",
     "url": "https://github.com/bkerler/Loaders",
     "description": "EDL Loaders",
-    "stars": 502,
+    "stars": 503,
     "language": "Unknown",
     "category": "Other Interesting Tools",
     "topics": [],
-    "updated_at": "2026-06-25T22:50:59Z"
+    "updated_at": "2026-06-26T15:42:15Z"
   },
   {
     "name": "edk2-porting/edk2-msm",
@@ -859,11 +859,11 @@
     "name": "jaakkopasanen/AutoEq",
     "url": "https://github.com/jaakkopasanen/AutoEq",
     "description": "Automatic headphone equalization from frequency responses",
-    "stars": 15937,
+    "stars": 15940,
     "language": "Python",
     "category": "Development / Coding",
     "topics": [],
-    "updated_at": "2026-06-26T02:31:59Z"
+    "updated_at": "2026-06-27T06:15:58Z"
   },
   {
     "name": "dylanaraps/pure-bash-bible",
@@ -886,7 +886,7 @@
       "shell",
       "shell-scripts"
     ],
-    "updated_at": "2026-06-26T06:19:15Z"
+    "updated_at": "2026-06-27T06:48:18Z"
   },
   {
     "name": "noahbliss/Viper4Linux",
@@ -943,7 +943,7 @@
       "raspbian",
       "x86-64"
     ],
-    "updated_at": "2026-06-26T07:26:42Z"
+    "updated_at": "2026-06-27T08:14:10Z"
   },
   {
     "name": "152334H/MiniGPT-4-discord-bot",
@@ -977,7 +977,7 @@
     "name": "K3V1991/ADB-and-FastbootPlusPlus",
     "url": "https://github.com/K3V1991/ADB-and-FastbootPlusPlus",
     "description": "A small Application for Windows that allows you to install the latest Version of ADB and Fastboot Files on the Computer without installing the entire Android SDK Package + Toolkit & Commands",
-    "stars": 736,
+    "stars": 737,
     "language": "Batchfile",
     "category": "Termux / Android Linux",
     "topics": [
@@ -995,7 +995,7 @@
       "usb",
       "windows"
     ],
-    "updated_at": "2026-06-24T19:53:43Z"
+    "updated_at": "2026-06-26T20:20:56Z"
   },
   {
     "name": "DoTheEvo/ANGRYsearch",
@@ -1021,14 +1021,14 @@
     "name": "webosbrew/webos-homebrew-channel",
     "url": "https://github.com/webosbrew/webos-homebrew-channel",
     "description": "Unofficial webOS TV homebrew store and root-related tooling",
-    "stars": 1271,
+    "stars": 1273,
     "language": "JavaScript",
     "category": "Development / Coding",
     "topics": [
       "enyo",
       "webos"
     ],
-    "updated_at": "2026-06-25T19:43:01Z"
+    "updated_at": "2026-06-27T00:29:33Z"
   },
   {
     "name": "maaaaz/smbmap",
@@ -1044,7 +1044,7 @@
     "name": "Hack-with-Github/Awesome-Hacking",
     "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
     "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
-    "stars": 115084,
+    "stars": 115140,
     "language": "Unknown",
     "category": "Security / Hacking",
     "topics": [
@@ -1058,13 +1058,13 @@
       "reverse-engineering",
       "security"
     ],
-    "updated_at": "2026-06-26T08:35:23Z"
+    "updated_at": "2026-06-27T07:26:51Z"
   },
   {
     "name": "yuliskov/SmartTube",
     "url": "https://github.com/yuliskov/SmartTube",
     "description": "Browse media content with your own rules on Android TV",
-    "stars": 30755,
+    "stars": 30768,
     "language": "Java",
     "category": "Termux / Android Linux",
     "topics": [
@@ -1076,13 +1076,13 @@
       "retrofit2",
       "rxjava-android"
     ],
-    "updated_at": "2026-06-26T08:34:09Z"
+    "updated_at": "2026-06-27T08:04:28Z"
   },
   {
     "name": "AlexxIT/SonoffLAN",
     "url": "https://github.com/AlexxIT/SonoffLAN",
     "description": "Control Sonoff Devices with eWeLink (original) firmware over LAN and/or Cloud from Home Assistant",
-    "stars": 3266,
+    "stars": 3267,
     "language": "Python",
     "category": "Development / Coding",
     "topics": [
@@ -1091,7 +1091,7 @@
       "home-assistant",
       "sonoff"
     ],
-    "updated_at": "2026-06-25T16:56:53Z"
+    "updated_at": "2026-06-27T05:07:54Z"
   },
   {
     "name": "stephane-r/HoloPlay",
@@ -1117,7 +1117,7 @@
     "name": "PokeMiners/pogo_assets",
     "url": "https://github.com/PokeMiners/pogo_assets",
     "description": "Repository of all mined assets including sprites, news items, sound files, translations, and 3D Assets for Pokemon GO.",
-    "stars": 492,
+    "stars": 493,
     "language": "Unknown",
     "category": "Termux / Android Linux",
     "topics": [
@@ -1126,7 +1126,7 @@
       "niantic",
       "pokemon-go"
     ],
-    "updated_at": "2026-06-25T16:43:18Z"
+    "updated_at": "2026-06-26T13:15:49Z"
   },
   {
     "name": "securitytxt/security-txt",
@@ -1151,7 +1151,7 @@
     "name": "firecracker-microvm/firecracker",
     "url": "https://github.com/firecracker-microvm/firecracker",
     "description": "Secure and fast microVMs for serverless computing.",
-    "stars": 35142,
+    "stars": 35166,
     "language": "Rust",
     "category": "Development / Coding",
     "topics": [
@@ -1165,7 +1165,7 @@
       "virtual-machine",
       "virtualization"
     ],
-    "updated_at": "2026-06-26T07:40:24Z"
+    "updated_at": "2026-06-27T08:08:16Z"
   },
   {
     "name": "adde88/openwrt-useful-tools",
@@ -1222,7 +1222,7 @@
     "name": "xbmc/xbmc",
     "url": "https://github.com/xbmc/xbmc",
     "description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.",
-    "stars": 20892,
+    "stars": 20894,
     "language": "C++",
     "category": "Termux / Android Linux",
     "topics": [
@@ -1244,7 +1244,7 @@
       "xbmc",
       "xml"
     ],
-    "updated_at": "2026-06-25T23:49:26Z"
+    "updated_at": "2026-06-27T01:36:30Z"
   },
   {
     "name": "brannondorsey/mitm-router",
@@ -1297,7 +1297,7 @@
     "name": "abishekvashok/cmatrix",
     "url": "https://github.com/abishekvashok/cmatrix",
     "description": "Terminal based \"The Matrix\" like implementation",
-    "stars": 5137,
+    "stars": 5138,
     "language": "C",
     "category": "Other Interesting Tools",
     "topics": [
@@ -1305,7 +1305,7 @@
       "matrix",
       "screensaver"
     ],
-    "updated_at": "2026-06-26T05:39:56Z"
+    "updated_at": "2026-06-26T10:54:21Z"
   },
   {
     "name": "jkush321/dSploitScripts",
@@ -1440,11 +1440,11 @@
     "name": "cSploit/android",
     "url": "https://github.com/cSploit/android",
     "description": "cSploit - The most complete and advanced IT security professional toolkit on Android.",
-    "stars": 3621,
+    "stars": 3622,
     "language": "Java",
     "category": "Security / Hacking",
     "topics": [],
-    "updated_at": "2026-06-26T04:03:43Z"
+    "updated_at": "2026-06-26T12:34:55Z"
   },
   {
     "name": "razzeee/script.trakt",
@@ -1460,7 +1460,7 @@
     "name": "meefik/linuxdeploy",
     "url": "https://github.com/meefik/linuxdeploy",
     "description": "Install and run GNU/Linux on Android",
-    "stars": 5860,
+    "stars": 5862,
     "language": "Java",
     "category": "Termux / Android Linux",
     "topics": [
@@ -1470,6 +1470,6 @@
       "deployment",
       "linux"
     ],
-    "updated_at": "2026-06-26T06:29:51Z"
+    "updated_at": "2026-06-26T18:17:30Z"
   }
 ]
