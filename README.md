@@ -4,17 +4,17 @@
 
 🌐 Cyberdeck web: **[https://ala777.github.io/awesome-apps/](https://ala777.github.io/awesome-apps/)**
 
-Last update: **2026-07-05 08:40 UTC**
+Last update: **2026-07-06 09:55 UTC**
 
 ## Categories
 
 - [Security / Hacking](#security-hacking) — 18
 - [Network / ONVIF / IP Cameras](#network-onvif-ip-cameras) — 4
 - [Termux / Android Linux](#termux-android-linux) — 23
-- [Media / Audio / Video](#media-audio-video) — 9
+- [Media / Audio / Video](#media-audio-video) — 10
 - [System Tools](#system-tools) — 6
-- [Development / Coding](#development-coding) — 23
-- [Other Interesting Tools](#other-interesting-tools) — 19
+- [Development / Coding](#development-coding) — 25
+- [Other Interesting Tools](#other-interesting-tools) — 20
 
 ## Security / Hacking
 
@@ -23,11 +23,11 @@ Last update: **2026-07-05 08:40 UTC**
 - [andreock/kali-nethunter-s9](https://github.com/andreock/kali-nethunter-s9) — No description ⭐ 11 — `C`
 - [androidmalware/android_hid](https://github.com/androidmalware/android_hid) — Use Android as Rubber Ducky against another Android device ⭐ 1624 — `Shell`
 - [ArmisSecurity/blueborne](https://github.com/ArmisSecurity/blueborne) — PoC scripts demonstrating the BlueBorne vulnerabilities ⭐ 612 — `Python`
-- [Astrosp/Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List) — 📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI. ⭐ 3648 — `Shell` — `ai`, `ai-tools`, `awesome-list`, `bug-bounty`, `cybersecurity`, `information-gathering`
+- [Astrosp/Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List) — 📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI. ⭐ 3656 — `Shell` — `ai`, `ai-tools`, `awesome-list`, `bug-bounty`, `cybersecurity`, `information-gathering`
 - [brannondorsey/mitm-router](https://github.com/brannondorsey/mitm-router) — ☠ Man-in-the-middle wireless access point inside a docker container 🐳 ⭐ 461 — `Shell` — `docker`, `honeypot`, `hostapd`, `man-in-the-middle`, `mitm`, `mitmproxy`
 - [brompwnie/uitkyk](https://github.com/brompwnie/uitkyk) — Runtime memory analysis framework to identify Android malware ⭐ 145 — `Java` — `android`, `instrumentation`, `malware`
 - [cSploit/android](https://github.com/cSploit/android) — cSploit - The most complete and advanced IT security professional toolkit on Android. ⭐ 3631 — `Java`
-- [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) — A collection of various awesome lists for hackers, pentesters and security researchers ⭐ 115622 — `Unknown` — `android`, `awesome`, `bug-bounty`, `fuzzing`, `hacking`, `penetration-testing`
+- [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) — A collection of various awesome lists for hackers, pentesters and security researchers ⭐ 115691 — `Unknown` — `android`, `awesome`, `bug-bounty`, `fuzzing`, `hacking`, `penetration-testing`
 - [kost/NetworkMapper](https://github.com/kost/NetworkMapper) — Android frontend for Nmap Security Scanner ⭐ 70 — `Java`
 - [Lhshdhd/https-github.com-kimocoder-wifite2](https://github.com/Lhshdhd/https-github.com-kimocoder-wifite2) — https://github.com/kimocoder/wifite2 ⭐ 3 — `Unknown`
 - [Mak-P90/ai-jailbreak-archive](https://github.com/Mak-P90/ai-jailbreak-archive) — A unified list of jailbreaks, prompt injections, and related exploits I find across OpenAI, Gemini, Grok, and other LLMs. ⭐ 12 — `Unknown`
@@ -40,7 +40,7 @@ Last update: **2026-07-05 08:40 UTC**
 ## Network / ONVIF / IP Cameras
 
 - [eltonkola/opencamera](https://github.com/eltonkola/opencamera) — ip camera app for android (using onvif sdk) ⭐ 57 — `Kotlin`
-- [mohammadmahdi-termux/hackCCTV](https://github.com/mohammadmahdi-termux/hackCCTV) — Hackcctv ⭐ 307 — `Python` — `cam-hackers`, `camera`, `cameras`, `camerascanner`, `cctv`, `cctv-cameras`
+- [mohammadmahdi-termux/hackCCTV](https://github.com/mohammadmahdi-termux/hackCCTV) — Hackcctv ⭐ 308 — `Python` — `cam-hackers`, `camera`, `cameras`, `camerascanner`, `cctv`, `cctv-cameras`
 - [OpenIPC/firmware](https://github.com/OpenIPC/firmware) — Alternative IP Camera firmware from an open community ⭐ 2067 — `C` — `anyka`, `buildroot`, `diy`, `firmware`, `flyrouter`, `fpv`
 - [vzakharchenko/rtsp-samsung-tv](https://github.com/vzakharchenko/rtsp-samsung-tv) — Display RTSP streams from IP Cameras on Samsung Smart TV (Tizen TV) ⭐ 132 — `JavaScript` — `control`, `dvr`, `ffmpeg`, `ip-cameras`, `raspberry-pi`, `remote-control`
 
@@ -48,64 +48,67 @@ Last update: **2026-07-05 08:40 UTC**
 
 - [alt236/Bluetooth-LE-Library---Android](https://github.com/alt236/Bluetooth-LE-Library---Android) — This library allows for easy access to a Bluetooth LE device's AdRecord and RSSI value. It offers additional functionality for iBeacons. ⭐ 881 — `Java`
 - [arter97/android_kernel_oneplus_msm8998](https://github.com/arter97/android_kernel_oneplus_msm8998) — No description ⭐ 25 — `C`
-- [BatchDrake/SigDigger](https://github.com/BatchDrake/SigDigger) — Qt-based digital signal analyzer, using Suscan core and Sigutils DSP library ⭐ 2521 — `C++` — `ask`, `digital-signal-analyzer`, `fsk`, `gqrx`, `linux`, `psk`
+- [BatchDrake/SigDigger](https://github.com/BatchDrake/SigDigger) — Qt-based digital signal analyzer, using Suscan core and Sigutils DSP library ⭐ 2522 — `C++` — `ask`, `digital-signal-analyzer`, `fsk`, `gqrx`, `linux`, `psk`
 - [BiltuDas1/unlock-Bootloader](https://github.com/BiltuDas1/unlock-Bootloader) — Unlock Bootloader of any Device using PC or Android.  ⭐ 247 — `Unknown` — `adb`, `android`, `android-device`, `android-phone`, `bootloader`, `fastboot`
 - [chrisk44/Hijacker](https://github.com/chrisk44/Hijacker) — Aircrack, Airodump, Aireplay, MDK3 and Reaver GUI Application for Android ⭐ 2539 — `Java` — `aircrack`, `airodump-ng`, `android`, `crack`, `monitor-mode`, `reaver`
-- [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) — PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019 ⭐ 4651 — `PowerShell` — `powershell`, `sysadmin`, `sysadmin-tasks`, `tweaks`, `windows-10`, `windows-server-2016`
+- [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) — PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019 ⭐ 4650 — `PowerShell` — `powershell`, `sysadmin`, `sysadmin-tasks`, `tweaks`, `windows-10`, `windows-server-2016`
 - [DoTheEvo/ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) — Linux file search, instant results as you type ⭐ 1156 — `Python`
-- [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) — Automatically skip Ads, Intros, Credits, etc. on all major Streaming services ⭐ 570 — `JavaScript` — `adblock`, `amazon`, `chrome`, `chrome-extension`, `crunchyroll`, `disney`
+- [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) — Automatically skip Ads, Intros, Credits, etc. on all major Streaming services ⭐ 571 — `JavaScript` — `adblock`, `amazon`, `chrome`, `chrome-extension`, `crunchyroll`, `disney`
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) — 📖 A collection of pure bash alternatives to external processes. ⭐ 41689 — `Shell` — `bash`, `bible`, `book`, `guide`, `handbook`, `how-to`
 - [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) — No description ⭐ 4306 — `Shell`
 - [grant-h/qu1ckr00t](https://github.com/grant-h/qu1ckr00t) — A PoC application demonstrating the power of an Android kernel arbitrary R/W. ⭐ 445 — `C`
 - [Incipiens/WindowsControlCenter](https://github.com/Incipiens/WindowsControlCenter) — This application aims to amalgamate the most common tweaks and monitoring tools into one holistic UI. All scripts run through PowerShell, all tweaks are revertible registry entries. ⭐ 13 — `C#` — `windows`, `windows11`
 - [jkush321/dSploitScripts](https://github.com/jkush321/dSploitScripts) — An Android app that allows easy downloading for scripts to inject into webpages with dSploit ⭐ 36 — `Java`
 - [K3V1991/ADB-and-FastbootPlusPlus](https://github.com/K3V1991/ADB-and-FastbootPlusPlus) — A small Application for Windows that allows you to install the latest Version of ADB and Fastboot Files on the Computer without installing the entire Android SDK Package + Toolkit & Commands ⭐ 740 — `Batchfile` — `adb`, `android`, `bat`, `batch`, `cmd`, `commands`
-- [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) — Install and run GNU/Linux on Android ⭐ 5870 — `Java` — `android`, `chroot`, `containers`, `deployment`, `linux`
-- [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) — 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, curl installer... ⭐ 2917 — `Shell` — `arm`, `nextcloud`, `qemu`, `raspberry-pi`, `raspbian`, `x86-64`
+- [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) — Install and run GNU/Linux on Android ⭐ 5869 — `Java` — `android`, `chroot`, `containers`, `deployment`, `linux`
+- [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) — 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, curl installer... ⭐ 2919 — `Shell` — `arm`, `nextcloud`, `qemu`, `raspberry-pi`, `raspbian`, `x86-64`
 - [noahbliss/Viper4Linux](https://github.com/noahbliss/Viper4Linux) — Implementation of the libviper library for modern Linux desktops. ⭐ 143 — `Shell`
-- [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) — bluetooth mesh chat, IRC vibes ⭐ 5527 — `Kotlin`
+- [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) — bluetooth mesh chat, IRC vibes ⭐ 5532 — `Kotlin`
 - [pizi-0/flutter-scrcpygui-companion](https://github.com/pizi-0/flutter-scrcpygui-companion) — A companion Android app for Scrcpy GUI ⭐ 28 — `Dart`
-- [PokeMiners/pogo_assets](https://github.com/PokeMiners/pogo_assets) — Repository of all mined assets including sprites, news items, sound files, translations, and 3D Assets for Pokemon GO. ⭐ 494 — `Unknown` — `apk`, `mined-assets`, `niantic`, `pokemon-go`
+- [PokeMiners/pogo_assets](https://github.com/PokeMiners/pogo_assets) — Repository of all mined assets including sprites, news items, sound files, translations, and 3D Assets for Pokemon GO. ⭐ 495 — `Unknown` — `apk`, `mined-assets`, `niantic`, `pokemon-go`
 - [Squonk42/OpenWrt-RT5350](https://github.com/Squonk42/OpenWrt-RT5350) — Patches to compile OpenWrt Linux on Ralink RT5350-based routers ⭐ 70 — `Unknown`
-- [xbmc/xbmc](https://github.com/xbmc/xbmc) — Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows. ⭐ 20919 — `C++` — `android`, `c-plus-plus`, `entertainment-hub`, `hacktoberfest`, `home-theater`, `ios`
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) — Browse media content with your own rules on Android TV ⭐ 30967 — `Java` — `android`, `android-tv`, `android-tv-box`, `java`, `kotlin`, `retrofit2`
+- [xbmc/xbmc](https://github.com/xbmc/xbmc) — Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows. ⭐ 20924 — `C++` — `android`, `c-plus-plus`, `entertainment-hub`, `hacktoberfest`, `home-theater`, `ios`
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) — Browse media content with your own rules on Android TV ⭐ 31015 — `Java` — `android`, `android-tv`, `android-tv-box`, `java`, `kotlin`, `retrofit2`
 
 ## Media / Audio / Video
 
-- [Acly/comfyui-tooling-nodes](https://github.com/Acly/comfyui-tooling-nodes) — Nodes for using ComfyUI as a backend for external tools. Send and receive images directly without filesystem upload/download. ⭐ 663 — `Python` — `comfyui`, `stable-diffusion`
-- [DISTRHO/Cardinal](https://github.com/DISTRHO/Cardinal) — Virtual modular synthesizer plugin ⭐ 3091 — `C++` — `audio`, `eurorack`, `lv2-plugin`, `plugin`, `vcvrack`, `vst-plugin`
-- [facebookresearch/DensePose](https://github.com/facebookresearch/DensePose) — A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body ⭐ 7255 — `Jupyter Notebook`
-- [immich-app/immich](https://github.com/immich-app/immich) — High performance self-hosted photo and video management solution. ⭐ 105775 — `TypeScript` — `backup-tool`, `flutter`, `google-photos`, `google-photos-alternative`, `javascript`, `mobile-app`
+- [Acly/comfyui-tooling-nodes](https://github.com/Acly/comfyui-tooling-nodes) — Nodes for using ComfyUI as a backend for external tools. Send and receive images directly without filesystem upload/download. ⭐ 664 — `Python` — `comfyui`, `stable-diffusion`
+- [Brainicism/bgutil-ytdlp-pot-provider](https://github.com/Brainicism/bgutil-ytdlp-pot-provider) — Proof-of-origin token provider plugin for yt-dlp ⭐ 598 — `TypeScript` — `yt-dlp`, `yt-dlp-plugins`, `yt-dlp-pot-provider`
+- [DISTRHO/Cardinal](https://github.com/DISTRHO/Cardinal) — Virtual modular synthesizer plugin ⭐ 3092 — `C++` — `audio`, `eurorack`, `lv2-plugin`, `plugin`, `vcvrack`, `vst-plugin`
+- [facebookresearch/DensePose](https://github.com/facebookresearch/DensePose) — A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body ⭐ 7257 — `Jupyter Notebook`
+- [immich-app/immich](https://github.com/immich-app/immich) — High performance self-hosted photo and video management solution. ⭐ 106365 — `TypeScript` — `backup-tool`, `flutter`, `google-photos`, `google-photos-alternative`, `javascript`, `mobile-app`
 - [louislam/akaigrid](https://github.com/louislam/akaigrid) — AkaiGrid is a fancy frontend for browsing your video folders on Windows. ⭐ 71 — `TypeScript` — `deno`, `library`, `video`, `webapp`, `windows`
 - [Moosync/Moosync-electron](https://github.com/Moosync/Moosync-electron) — Music player capable of playing local audio or from Youtube, Spotify and many more ⭐ 1259 — `Vue` — `discord`, `electron`, `emby`, `javascript`, `jellyfin-client`, `lastfm`
 - [PatrickSt1991/vlc-tizen-tv](https://github.com/PatrickSt1991/vlc-tizen-tv) — VLC Like player for your Samsung TV ⭐ 10 — `JavaScript` — `samsung`, `tizen`, `vlc`, `vlc-player`
 - [stephane-r/HoloPlay](https://github.com/stephane-r/HoloPlay) — React-Native app using Invidious API for listening Youtube audio source. ⭐ 176 — `TypeScript`
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) — A feature-rich command-line audio/video downloader ⭐ 175255 — `Python` — `cli`, `downloader`, `python`, `sponsorblock`, `youtube-dl`, `youtube-downloader`
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) — A feature-rich command-line audio/video downloader ⭐ 175555 — `Python` — `cli`, `downloader`, `python`, `sponsorblock`, `youtube-dl`, `youtube-downloader`
 
 ## System Tools
 
-- [0PandaDEV/awesome-windows](https://github.com/0PandaDEV/awesome-windows) — An awesome & curated list of tools and apps for Windows 10/11. ⭐ 2553 — `Unknown` — `awesome`, `awesome-list`, `microsoft`, `windows`
-- [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) — UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers ⭐ 24895 — `C#` — `chocolatey`, `cli`, `npm`, `package`, `package-manager`, `pip`
-- [edk2-porting/edk2-msm](https://github.com/edk2-porting/edk2-msm) — Broken edk2 port for Qualcomm platforms xD ⭐ 2568 — `ASL` — `acpi`, `edk2`, `edk2-platforms`, `phone`, `uefi-firmware`, `windows-on-arm`
-- [lucasg/Dependencies](https://github.com/lucasg/Dependencies) — A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues. ⭐ 11659 — `C#` — `csharp`, `dll`, `windows`, `wpf`
-- [openrecall/openrecall](https://github.com/openrecall/openrecall) — OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft's Windows Recall. With OpenRecall, you can easily access your digital history, enhancing your memory and productivity without compromising your privacy. ⭐ 2876 — `Python` — `ai`, `alternative`, `history`, `macos`, `ocr`, `open-source`
+- [0PandaDEV/awesome-windows](https://github.com/0PandaDEV/awesome-windows) — An awesome & curated list of tools and apps for Windows 10/11. ⭐ 2561 — `Unknown` — `awesome`, `awesome-list`, `microsoft`, `windows`
+- [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) — UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers ⭐ 24905 — `C#` — `chocolatey`, `cli`, `npm`, `package`, `package-manager`, `pip`
+- [edk2-porting/edk2-msm](https://github.com/edk2-porting/edk2-msm) — Broken edk2 port for Qualcomm platforms xD ⭐ 2570 — `ASL` — `acpi`, `edk2`, `edk2-platforms`, `phone`, `uefi-firmware`, `windows-on-arm`
+- [lucasg/Dependencies](https://github.com/lucasg/Dependencies) — A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues. ⭐ 11660 — `C#` — `csharp`, `dll`, `windows`, `wpf`
+- [openrecall/openrecall](https://github.com/openrecall/openrecall) — OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft's Windows Recall. With OpenRecall, you can easily access your digital history, enhancing your memory and productivity without compromising your privacy. ⭐ 2879 — `Python` — `ai`, `alternative`, `history`, `macos`, `ocr`, `open-source`
 - [OpenVPN/tap-windows](https://github.com/OpenVPN/tap-windows) — Windows TAP driver ⭐ 418 — `C`
 
 ## Development / Coding
 
 - [152334H/MiniGPT-4-discord-bot](https://github.com/152334H/MiniGPT-4-discord-bot) — A true multimodal LLaMA derivative -- on Discord! ⭐ 47 — `Python` — `ai`, `blip2`, `discord-bot`, `llama`, `llm`, `multimodal`
-- [Acly/comfyui-inpaint-nodes](https://github.com/Acly/comfyui-inpaint-nodes) — Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, MAT, and various other tools for pre-filling inpaint & outpaint areas. ⭐ 1213 — `Python` — `comfyui`, `comfyui-nodes`, `inpainting`, `stable-diffusion`
-- [Acly/krita-vision-tools](https://github.com/Acly/krita-vision-tools) — Krita plugin which adds selection tools to mask objects with a single click, or by drawing a bounding box. ⭐ 927 — `C++`
-- [AlexxIT/SonoffLAN](https://github.com/AlexxIT/SonoffLAN) — Control Sonoff Devices with eWeLink (original) firmware over LAN and/or Cloud from Home Assistant ⭐ 3270 — `Python` — `ewelink`, `hacs`, `home-assistant`, `sonoff`
-- [anvaka/map-of-github](https://github.com/anvaka/map-of-github) — Inspirational Mapping ⭐ 2862 — `JavaScript`
+- [Acly/comfyui-inpaint-nodes](https://github.com/Acly/comfyui-inpaint-nodes) — Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, MAT, and various other tools for pre-filling inpaint & outpaint areas. ⭐ 1214 — `Python` — `comfyui`, `comfyui-nodes`, `inpainting`, `stable-diffusion`
+- [Acly/krita-vision-tools](https://github.com/Acly/krita-vision-tools) — Krita plugin which adds selection tools to mask objects with a single click, or by drawing a bounding box. ⭐ 928 — `C++`
+- [AlexxIT/SonoffLAN](https://github.com/AlexxIT/SonoffLAN) — Control Sonoff Devices with eWeLink (original) firmware over LAN and/or Cloud from Home Assistant ⭐ 3271 — `Python` — `ewelink`, `hacs`, `home-assistant`, `sonoff`
+- [anvaka/map-of-github](https://github.com/anvaka/map-of-github) — Inspirational Mapping ⭐ 2863 — `JavaScript`
 - [chromecast-sponsorblock/chromecast-sponsorblock](https://github.com/chromecast-sponsorblock/chromecast-sponsorblock) — No description ⭐ 44 — `JavaScript`
-- [davidondrej/jailbreak-autoresearch](https://github.com/davidondrej/jailbreak-autoresearch) — We shall set the models free. ⭐ 442 — `Python`
-- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) — Secure and fast microVMs for serverless computing. ⭐ 35291 — `Rust` — `containers`, `minimalist`, `open-source`, `oversubscription`, `rust`, `sandbox`
+- [davidondrej/jailbreak-autoresearch](https://github.com/davidondrej/jailbreak-autoresearch) — We shall set the models free. ⭐ 451 — `Python`
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) — Secure and fast microVMs for serverless computing. ⭐ 35313 — `Rust` — `containers`, `minimalist`, `open-source`, `oversubscription`, `rust`, `sandbox`
 - [hexagonal-sun/ampkt](https://github.com/hexagonal-sun/ampkt) — Amateur radio packet experimentation framework ⭐ 62 — `Rust`
-- [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) — Automatic headphone equalization from frequency responses ⭐ 15962 — `Python`
+- [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) — Automatic headphone equalization from frequency responses ⭐ 15966 — `Python`
 - [kimocoder/kimocoder](https://github.com/kimocoder/kimocoder) — No description ⭐ 32 — `Unknown`
+- [kingchenc/JellyThemes](https://github.com/kingchenc/JellyThemes) — Premium dark theme collection for Jellyfin Media Server. 6 stunning themes with glassmorphism effects. ⭐ 7 — `CSS` — `css`, `custom-css`, `customization`, `dark-mode`, `dark-theme`, `dark-themes`
+- [kingchenc/Samsung-Jellyfin-Installer](https://github.com/kingchenc/Samsung-Jellyfin-Installer) — One-click install of Jellyfin on your Samsung TV — fully compatible with all Tizen versions! ⭐ 1 — `C#`
 - [laramies/metagoofil](https://github.com/laramies/metagoofil) — Metadata harvester ⭐ 1288 — `Python`
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) — A fancy self-hosted monitoring tool ⭐ 88757 — `JavaScript` — `docker`, `monitor`, `monitoring`, `responsive`, `self-hosted`, `selfhosted`
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) — A fancy self-hosted monitoring tool ⭐ 88799 — `JavaScript` — `docker`, `monitor`, `monitoring`, `responsive`, `self-hosted`, `selfhosted`
 - [mandatoryprogrammer/xssless](https://github.com/mandatoryprogrammer/xssless) — An automated XSS payload generator written in python. ⭐ 316 — `Python`
 - [nordicsemi/nRF-Logger-API](https://github.com/nordicsemi/nRF-Logger-API) — The public library with nRF Logger API. Allows to log custom logs into the nRF Logger database. ⭐ 533 — `Java`
 - [ollo69/ha-samsungtv-smart](https://github.com/ollo69/ha-samsungtv-smart) — 📺 Home Assistant SamsungTV Smart integration with SmartThings API Support. ⭐ 657 — `Python` — `home-assistant`, `homeassistant`, `samsung`, `samsung-smart-tv`, `samsung-tv`, `smartthings`
@@ -114,22 +117,23 @@ Last update: **2026-07-05 08:40 UTC**
 - [razzeee/script.trakt](https://github.com/razzeee/script.trakt) — Trakt.tv movie and TV show scrobbler for Kodi ⭐ 357 — `Python`
 - [shadps4-emu/shadPS4-launcher](https://github.com/shadps4-emu/shadPS4-launcher) — Launcher of the ShadPS4 emulator ⭐ 48 — `TypeScript`
 - [testanull/MS-SharePoint-July-Patch-RCE-PoC](https://github.com/testanull/MS-SharePoint-July-Patch-RCE-PoC) — No description ⭐ 158 — `Python`
-- [webosbrew/webos-homebrew-channel](https://github.com/webosbrew/webos-homebrew-channel) — Unofficial webOS TV homebrew store and root-related tooling ⭐ 1283 — `JavaScript` — `enyo`, `webos`
-- [Y2Z/monolith](https://github.com/Y2Z/monolith) — ⬛️ CLI tool and library for saving complete web pages as a single HTML file ⭐ 15321 — `Rust` — `come-and-take-it`, `e-hoarding`, `its-mine`, `make-the-internet-great-again`, `no-more-404`, `procrastination`
+- [webosbrew/webos-homebrew-channel](https://github.com/webosbrew/webos-homebrew-channel) — Unofficial webOS TV homebrew store and root-related tooling ⭐ 1286 — `JavaScript` — `enyo`, `webos`
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) — ⬛️ CLI tool and library for saving complete web pages as a single HTML file ⭐ 15319 — `Rust` — `come-and-take-it`, `e-hoarding`, `its-mine`, `make-the-internet-great-again`, `no-more-404`, `procrastination`
 
 ## Other Interesting Tools
 
-- [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) — Terminal based "The Matrix" like implementation ⭐ 5143 — `C` — `c`, `matrix`, `screensaver`
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) — A list of Free Software network services and web applications which can be hosted on your own servers ⭐ 302926 — `Unknown` — `awesome`, `awesome-list`, `cloud`, `free-software`, `hosting`, `privacy`
+- [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) — Terminal based "The Matrix" like implementation ⭐ 5145 — `C` — `c`, `matrix`, `screensaver`
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) — A list of Free Software network services and web applications which can be hosted on your own servers ⭐ 303167 — `Unknown` — `awesome`, `awesome-list`, `cloud`, `free-software`, `hosting`, `privacy`
 - [bkerler/Loaders](https://github.com/bkerler/Loaders) — EDL Loaders ⭐ 505 — `Unknown`
 - [burlizzi/YoloV7-ncnn-Raspberry-Pi-4](https://github.com/burlizzi/YoloV7-ncnn-Raspberry-Pi-4) — YoloV7 for a bare Raspberry Pi using ncnn. ⭐ 1 — `C++`
-- [docker/awesome-compose](https://github.com/docker/awesome-compose) — Awesome Docker Compose samples ⭐ 45753 — `HTML` — `awesome`, `awesome-list`, `docker-compose`
+- [docker/awesome-compose](https://github.com/docker/awesome-compose) — Awesome Docker Compose samples ⭐ 45769 — `HTML` — `awesome`, `awesome-list`, `docker-compose`
 - [Entware/Entware-ng](https://github.com/Entware/Entware-ng) — Entware-ng ⭐ 1214 — `C` — `buildroot`, `deprecated`, `entware-ng`
 - [frantony/magic-lantern](https://github.com/frantony/magic-lantern) — magic-lantern mirror, see https://bitbucket.org/hudson/magic-lantern/overview ⭐ 20 — `C`
 - [frederic/pflupg-tool](https://github.com/frederic/pflupg-tool) — Unpacking tool for Philips SmartTV firmware (Fusion platform) ⭐ 24 — `C`
-- [hahwul/metasploit-autopwn](https://github.com/hahwul/metasploit-autopwn) — db_autopwn plugin of metasploit ⭐ 271 — `Ruby`
+- [hahwul/metasploit-autopwn](https://github.com/hahwul/metasploit-autopwn) — db_autopwn plugin of metasploit ⭐ 273 — `Ruby`
 - [jmk-foofus/medusa](https://github.com/jmk-foofus/medusa) — Medusa is a speedy, parallel, and modular, login brute-forcer.  ⭐ 870 — `C`
 - [john9527/asuswrt-merlin](https://github.com/john9527/asuswrt-merlin) — Fork of earlier asuswrt-merlin router firmware ⭐ 383 — `Unknown`
+- [kingchenc/Marlin_bugfix_2.1_E3V3SE](https://github.com/kingchenc/Marlin_bugfix_2.1_E3V3SE) — Marlin BugFix 2.1.x For the Ender 3 V3 SE ⭐ 1 — `Unknown`
 - [maaaaz/smbmap](https://github.com/maaaaz/smbmap) — SMBMap is a handy SMB enumeration tool ⭐ 2 — `Unknown`
 - [mackieks/MaplePad](https://github.com/mackieks/MaplePad) — 🍁 Dreamcast controller emulator using RP2040. Supports 8-page memory card, SPI/I2C OLED for VMU LCD, and rumble. ⭐ 254 — `C` — `dreamcast`, `maple-bus`, `maplepad`, `rp2040`, `sega`, `sega-dreamcast`
 - [mustaffxx/usb-host-shield-mouse](https://github.com/mustaffxx/usb-host-shield-mouse) — A simply trick for interpret a 16-bit/axis mouse using USB_Host_Shield_2.0. (Logitech G502) ⭐ 74 — `C++` — `logitech`, `logitech-g502`, `mouse`, `usb-host`, `usb-host-shield`
@@ -137,4 +141,4 @@ Last update: **2026-07-05 08:40 UTC**
 - [Sudo0xSajal/grok-dan-jailbreak-2026](https://github.com/Sudo0xSajal/grok-dan-jailbreak-2026) — Full working DAN ("Do Anything Now") jailbreak prompt for Grok / xAI – tested 2026. Activate uncensored, no-limits mode. ⭐ 31 — `Unknown`
 - [vanhoefm/fragattacks](https://github.com/vanhoefm/fragattacks) — No description ⭐ 1304 — `C`
 - [vanhoefm/krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts) — No description ⭐ 3514 — `C`
-- [zacharee/Bifrost](https://github.com/zacharee/Bifrost) — Cross-platform tool for downloading Samsung mobile device firmware. ⭐ 1497 — `Kotlin` — `compose-multiplatform`, `kotlin`, `kotlin-multiplatform`, `samsung`
+- [zacharee/Bifrost](https://github.com/zacharee/Bifrost) — Cross-platform tool for downloading Samsung mobile device firmware. ⭐ 1498 — `Kotlin` — `compose-multiplatform`, `kotlin`, `kotlin-multiplatform`, `samsung`
