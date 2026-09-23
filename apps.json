@@ -1,5 +1,15 @@
 [
   {
+    "name": "brave/brave-search-mcp-server",
+    "url": "https://github.com/brave/brave-search-mcp-server",
+    "description": "No description",
+    "stars": 1460,
+    "language": "TypeScript",
+    "category": "Development / Coding",
+    "topics": [],
+    "updated_at": "2026-09-23T06:29:55Z"
+  },
+  {
     "name": "comfyanonymous/ComfyUI_bitsandbytes_NF4",
     "url": "https://github.com/comfyanonymous/ComfyUI_bitsandbytes_NF4",
     "description": "No description",
@@ -33,7 +43,7 @@
       "security",
       "sql-injection"
     ],
-    "updated_at": "2026-09-22T07:36:28Z"
+    "updated_at": "2026-09-23T08:20:51Z"
   },
   {
     "name": "AlA777/awesome-apps",
@@ -43,13 +53,13 @@
     "language": "JavaScript",
     "category": "Termux / Android Linux",
     "topics": [],
-    "updated_at": "2026-09-21T11:26:12Z"
+    "updated_at": "2026-09-22T10:34:30Z"
   },
   {
     "name": "starseed12345/QuestStack",
     "url": "https://github.com/starseed12345/QuestStack",
     "description": "Unlock the Meta Quest 1 bootloader and gain root access using GhostLock + CVE-2021-1931.",
-    "stars": 198,
+    "stars": 201,
     "language": "C#",
     "category": "Security / Hacking",
     "topics": [
@@ -67,13 +77,13 @@
       "quest-root",
       "vr"
     ],
-    "updated_at": "2026-09-22T09:22:21Z"
+    "updated_at": "2026-09-23T04:47:56Z"
   },
   {
     "name": "microsoft/terminal",
     "url": "https://github.com/microsoft/terminal",
     "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
-    "stars": 104963,
+    "stars": 104971,
     "language": "C++",
     "category": "System Tools",
     "topics": [
@@ -89,13 +99,13 @@
       "windows-terminal",
       "wsl"
     ],
-    "updated_at": "2026-09-22T10:02:02Z"
+    "updated_at": "2026-09-23T09:25:45Z"
   },
   {
     "name": "microsoft/PowerToys",
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
-    "stars": 138907,
+    "stars": 138927,
     "language": "C",
     "category": "System Tools",
     "topics": [
@@ -112,7 +122,7 @@
       "windows-10",
       "windows-11"
     ],
-    "updated_at": "2026-09-22T10:14:35Z"
+    "updated_at": "2026-09-23T10:00:44Z"
   },
   {
     "name": "Upinel/free-for-dev",
@@ -128,23 +138,23 @@
     "name": "Upinel/localhost.direct",
     "url": "https://github.com/Upinel/localhost.direct",
     "description": "localhost with public CA signed SSL certificate",
-    "stars": 495,
+    "stars": 496,
     "language": "Unknown",
     "category": "Other Interesting Tools",
     "topics": [],
-    "updated_at": "2026-09-16T13:51:11Z"
+    "updated_at": "2026-09-23T07:52:00Z"
   },
   {
     "name": "ggml-org/llama.cpp",
     "url": "https://github.com/ggml-org/llama.cpp",
     "description": "LLM inference in C/C++",
-    "stars": 129158,
+    "stars": 129285,
     "language": "C++",
     "category": "Other Interesting Tools",
     "topics": [
       "ggml"
     ],
-    "updated_at": "2026-09-22T10:32:26Z"
+    "updated_at": "2026-09-23T10:17:30Z"
   },
   {
     "name": "likelikeslike/ViPERFX_RE",
@@ -180,14 +190,14 @@
     "name": "barry-ran/QtScrcpy",
     "url": "https://github.com/barry-ran/QtScrcpy",
     "description": "Android real-time display control software",
-    "stars": 32056,
+    "stars": 32072,
     "language": "C++",
     "category": "Termux / Android Linux",
     "topics": [
       "android",
       "qt"
     ],
-    "updated_at": "2026-09-22T07:38:26Z"
+    "updated_at": "2026-09-23T09:18:09Z"
   },
   {
     "name": "corsicanu/goodlock_dump",
@@ -197,13 +207,13 @@
     "language": "Python",
     "category": "Development / Coding",
     "topics": [],
-    "updated_at": "2026-09-22T04:12:38Z"
+    "updated_at": "2026-09-23T04:03:52Z"
   },
   {
     "name": "T8RIN/ImageToolbox",
     "url": "https://github.com/T8RIN/ImageToolbox",
     "description": "🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options",
-    "stars": 14719,
+    "stars": 14733,
     "language": "Kotlin",
     "category": "Termux / Android Linux",
     "topics": [
@@ -228,13 +238,13 @@
       "qrcode-scanner",
       "upscaling"
     ],
-    "updated_at": "2026-09-22T09:51:17Z"
+    "updated_at": "2026-09-23T08:06:31Z"
   },
   {
     "name": "sgoudelis/ground-station",
     "url": "https://github.com/sgoudelis/ground-station",
     "description": "Browser-based ground station suite for satellite tracking, SDR reception, hardware control, and telemetry decoding",
-    "stars": 4804,
+    "stars": 4808,
     "language": "JavaScript",
     "category": "System Tools",
     "topics": [
@@ -256,7 +266,7 @@
       "waterfall",
       "weather"
     ],
-    "updated_at": "2026-09-22T10:34:17Z"
+    "updated_at": "2026-09-23T10:00:52Z"
   },
   {
     "name": "tysonsawchuk/promptforge-online",
@@ -282,7 +292,7 @@
     "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
     "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
     "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-    "stars": 143791,
+    "stars": 143823,
     "language": "Unknown",
     "category": "System Tools",
     "topics": [
@@ -307,13 +317,13 @@
       "windsurf",
       "windsurf-ai"
     ],
-    "updated_at": "2026-09-22T10:34:23Z"
+    "updated_at": "2026-09-23T09:53:25Z"
   },
   {
     "name": "Comfy-Org/ComfyUI",
     "url": "https://github.com/Comfy-Org/ComfyUI",
     "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-    "stars": 134418,
+    "stars": 134612,
     "language": "Python",
     "category": "Development / Coding",
     "topics": [
@@ -324,13 +334,13 @@
       "pytorch",
       "stable-diffusion"
     ],
-    "updated_at": "2026-09-22T10:34:00Z"
+    "updated_at": "2026-09-23T10:03:45Z"
   },
   {
     "name": "microsoft/generative-ai-for-beginners",
     "url": "https://github.com/microsoft/generative-ai-for-beginners",
     "description": "21 Lessons, Get Started Building with Generative AI ",
-    "stars": 120259,
+    "stars": 120347,
     "language": "Jupyter Notebook",
     "category": "Other Interesting Tools",
     "topics": [
@@ -349,13 +359,13 @@
       "semantic-search",
       "transformers"
     ],
-    "updated_at": "2026-09-22T10:34:03Z"
+    "updated_at": "2026-09-23T10:23:01Z"
   },
   {
     "name": "supabase/supabase",
     "url": "https://github.com/supabase/supabase",
     "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-    "stars": 110580,
+    "stars": 110685,
     "language": "TypeScript",
     "category": "Development / Coding",
     "topics": [
@@ -379,13 +389,13 @@
       "vectors",
       "websockets"
     ],
-    "updated_at": "2026-09-22T10:05:09Z"
+    "updated_at": "2026-09-23T10:09:00Z"
   },
   {
     "name": "google-gemini/gemini-cli",
     "url": "https://github.com/google-gemini/gemini-cli",
     "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-    "stars": 107130,
+    "stars": 107137,
     "language": "TypeScript",
     "category": "Development / Coding",
     "topics": [
@@ -397,7 +407,7 @@
       "mcp-client",
       "mcp-server"
     ],
-    "updated_at": "2026-09-22T09:55:30Z"
+    "updated_at": "2026-09-23T10:17:36Z"
   },
   {
     "name": "AUTOMATIC1111/stable-diffusion-webui-feature-showcase",
@@ -413,7 +423,7 @@
     "name": "AUTOMATIC1111/stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
     "description": "Stable Diffusion web UI",
-    "stars": 165058,
+    "stars": 165079,
     "language": "Python",
     "category": "Media / Audio / Video",
     "topics": [
@@ -434,13 +444,13 @@
       "upscaling",
       "web"
     ],
-    "updated_at": "2026-09-22T10:34:17Z"
+    "updated_at": "2026-09-23T09:52:39Z"
   },
   {
     "name": "f/prompts.chat",
     "url": "https://github.com/f/prompts.chat",
     "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-    "stars": 170949,
+    "stars": 171073,
     "language": "HTML",
     "category": "Development / Coding",
     "topics": [
@@ -463,7 +473,7 @@
       "prompts-chat",
       "typescript"
     ],
-    "updated_at": "2026-09-22T10:34:18Z"
+    "updated_at": "2026-09-23T10:24:28Z"
   },
   {
     "name": "exploit-development/iOS-Hacktivation-Toolkit",
@@ -525,7 +535,7 @@
     "name": "leaningtech/webvm",
     "url": "https://github.com/leaningtech/webvm",
     "description": "Virtual Machine for the Web",
-    "stars": 17402,
+    "stars": 17405,
     "language": "Svelte",
     "category": "Other Interesting Tools",
     "topics": [
@@ -541,7 +551,7 @@
       "webvm",
       "xterm-js"
     ],
-    "updated_at": "2026-09-22T10:33:53Z"
+    "updated_at": "2026-09-23T09:08:23Z"
   },
   {
     "name": "deepjyoti30/ytmdl",
@@ -578,7 +588,7 @@
     "name": "nextcloud/server",
     "url": "https://github.com/nextcloud/server",
     "description": "☁️ Nextcloud server, a safe home for all your data",
-    "stars": 36883,
+    "stars": 36894,
     "language": "PHP",
     "category": "Development / Coding",
     "topics": [
@@ -603,13 +613,13 @@
       "usability",
       "ux"
     ],
-    "updated_at": "2026-09-22T10:33:23Z"
+    "updated_at": "2026-09-23T09:24:19Z"
   },
   {
     "name": "portainer/portainer",
     "url": "https://github.com/portainer/portainer",
     "description": "Making Docker and Kubernetes management easy.",
-    "stars": 38536,
+    "stars": 38545,
     "language": "TypeScript",
     "category": "Media / Audio / Video",
     "topics": [
@@ -627,25 +637,25 @@
       "portainer",
       "ui"
     ],
-    "updated_at": "2026-09-22T10:34:13Z"
+    "updated_at": "2026-09-23T05:57:50Z"
   },
   {
     "name": "rapid7/metasploit-framework",
     "url": "https://github.com/rapid7/metasploit-framework",
     "description": "Metasploit Framework",
-    "stars": 39036,
+    "stars": 39041,
     "language": "Ruby",
     "category": "Development / Coding",
     "topics": [
       "hacktoberfest"
     ],
-    "updated_at": "2026-09-22T07:35:50Z"
+    "updated_at": "2026-09-23T09:50:20Z"
   },
   {
     "name": "fastlane/fastlane",
     "url": "https://github.com/fastlane/fastlane",
     "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
-    "stars": 42145,
+    "stars": 42146,
     "language": "Ruby",
     "category": "Termux / Android Linux",
     "topics": [
@@ -660,13 +670,13 @@
       "ruby",
       "screenshots"
     ],
-    "updated_at": "2026-09-22T10:26:52Z"
+    "updated_at": "2026-09-23T10:27:40Z"
   },
   {
     "name": "curl/curl",
     "url": "https://github.com/curl/curl",
     "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
-    "stars": 42893,
+    "stars": 42904,
     "language": "C",
     "category": "Network / ONVIF / IP Cameras",
     "topics": [
@@ -691,13 +701,13 @@
       "user-agent",
       "websocket"
     ],
-    "updated_at": "2026-09-22T08:27:19Z"
+    "updated_at": "2026-09-23T10:06:18Z"
   },
   {
     "name": "termux/termux-app",
     "url": "https://github.com/termux/termux-app",
     "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
-    "stars": 61230,
+    "stars": 61275,
     "language": "Java",
     "category": "Termux / Android Linux",
     "topics": [
@@ -707,13 +717,13 @@
       "terminal",
       "termux"
     ],
-    "updated_at": "2026-09-22T09:26:55Z"
+    "updated_at": "2026-09-23T09:41:35Z"
   },
   {
     "name": "scrapy/scrapy",
     "url": "https://github.com/scrapy/scrapy",
     "description": "Scrapy, a fast high-level web crawling & scraping framework for Python.",
-    "stars": 64439,
+    "stars": 64450,
     "language": "Python",
     "category": "Development / Coding",
     "topics": [
@@ -726,13 +736,13 @@
       "web-scraping",
       "web-scraping-python"
     ],
-    "updated_at": "2026-09-22T10:33:38Z"
+    "updated_at": "2026-09-23T09:59:44Z"
   },
   {
     "name": "grafana/grafana",
     "url": "https://github.com/grafana/grafana",
     "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ",
-    "stars": 76849,
+    "stars": 76870,
     "language": "TypeScript",
     "category": "Development / Coding",
     "topics": [
@@ -752,13 +762,13 @@
       "postgres",
       "prometheus"
     ],
-    "updated_at": "2026-09-22T10:31:01Z"
+    "updated_at": "2026-09-23T10:13:48Z"
   },
   {
     "name": "sherlock-project/sherlock",
     "url": "https://github.com/sherlock-project/sherlock",
     "description": "Hunt down social media accounts by username across social networks",
-    "stars": 92463,
+    "stars": 92518,
     "language": "Python",
     "category": "Security / Hacking",
     "topics": [
@@ -779,7 +789,7 @@
       "sherlock",
       "tools"
     ],
-    "updated_at": "2026-09-22T10:30:30Z"
+    "updated_at": "2026-09-23T10:04:58Z"
   },
   {
     "name": "ReVanced/revanced-cli",
@@ -828,20 +838,20 @@
     "name": "enaqx/awesome-pentest",
     "url": "https://github.com/enaqx/awesome-pentest",
     "description": "A collection of awesome penetration testing resources, tools and other shiny things",
-    "stars": 27256,
+    "stars": 27265,
     "language": "Unknown",
     "category": "Security / Hacking",
     "topics": [
       "awesome",
       "awesome-list"
     ],
-    "updated_at": "2026-09-22T06:15:58Z"
+    "updated_at": "2026-09-23T07:14:04Z"
   },
   {
     "name": "calesthio/OpenMontage",
     "url": "https://github.com/calesthio/OpenMontage",
     "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-    "stars": 60799,
+    "stars": 60979,
     "language": "Python",
     "category": "Media / Audio / Video",
     "topics": [
@@ -865,7 +875,7 @@
       "video-generation",
       "video-production"
     ],
-    "updated_at": "2026-09-22T10:25:02Z"
+    "updated_at": "2026-09-23T10:20:52Z"
   },
   {
     "name": "proxer05/xiaomi_daisy-linux",
@@ -881,17 +891,17 @@
     "name": "umeiko/KlipperPhonesLinux",
     "url": "https://github.com/umeiko/KlipperPhonesLinux",
     "description": "Turning  Mobile Phones into High Performance Klipper Host for 3D Printers  Based on Native Linux",
-    "stars": 469,
+    "stars": 470,
     "language": "HTML",
     "category": "Termux / Android Linux",
     "topics": [],
-    "updated_at": "2026-09-16T14:30:06Z"
+    "updated_at": "2026-09-22T12:01:02Z"
   },
   {
     "name": "github/awesome-copilot",
     "url": "https://github.com/github/awesome-copilot",
     "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "stars": 39269,
+    "stars": 39302,
     "language": "JavaScript",
     "category": "Development / Coding",
     "topics": [
@@ -904,7 +914,7 @@
       "hacktoberfest",
       "prompt-engineering"
     ],
-    "updated_at": "2026-09-22T10:33:29Z"
+    "updated_at": "2026-09-23T10:02:52Z"
   },
   {
     "name": "rgthree/ComfyUI-Inspire-Pack",
@@ -920,7 +930,7 @@
     "name": "farag2/Sophia-Script-for-Windows",
     "url": "https://github.com/farag2/Sophia-Script-for-Windows",
     "description": ":zap: The most powerful PowerShell module for fine-tuning Windows 10 & Windows 11 on GitHub",
-    "stars": 9759,
+    "stars": 9761,
     "language": "PowerShell",
     "category": "Termux / Android Linux",
     "topics": [
@@ -943,13 +953,13 @@
       "windows-11",
       "windows-debloat"
     ],
-    "updated_at": "2026-09-22T10:24:29Z"
+    "updated_at": "2026-09-22T17:30:56Z"
   },
   {
     "name": "Brainicism/bgutil-ytdlp-pot-provider",
     "url": "https://github.com/Brainicism/bgutil-ytdlp-pot-provider",
     "description": "Proof-of-origin token provider plugin for yt-dlp",
-    "stars": 791,
+    "stars": 796,
     "language": "TypeScript",
     "category": "Media / Audio / Video",
     "topics": [
@@ -957,7 +967,7 @@
       "yt-dlp-plugins",
       "yt-dlp-pot-provider"
     ],
-    "updated_at": "2026-09-21T17:05:56Z"
+    "updated_at": "2026-09-23T07:44:52Z"
   },
   {
     "name": "kingchenc/Samsung-Jellyfin-Installer",
@@ -1014,7 +1024,7 @@
     "name": "Acly/comfyui-inpaint-nodes",
     "url": "https://github.com/Acly/comfyui-inpaint-nodes",
     "description": "Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, MAT, and various other tools for pre-filling inpaint & outpaint areas.",
-    "stars": 1244,
+    "stars": 1245,
     "language": "Python",
     "category": "Development / Coding",
     "topics": [
@@ -1023,17 +1033,17 @@
       "inpainting",
       "stable-diffusion"
     ],
-    "updated_at": "2026-09-19T11:30:08Z"
+    "updated_at": "2026-09-22T12:19:42Z"
   },
   {
     "name": "nordicsemi/nRF-Logger-API",
     "url": "https://github.com/nordicsemi/nRF-Logger-API",
     "description": "The public library with nRF Logger API. Allows to log custom logs into the nRF Logger database.",
-    "stars": 549,
+    "stars": 550,
     "language": "Java",
     "category": "Development / Coding",
     "topics": [],
-    "updated_at": "2026-09-19T23:35:15Z"
+    "updated_at": "2026-09-23T02:34:11Z"
   },
   {
     "name": "alt236/Bluetooth-LE-Library---Android",
@@ -1049,7 +1059,7 @@
     "name": "OpenIPC/firmware",
     "url": "https://github.com/OpenIPC/firmware",
     "description": "Alternative IP Camera firmware from an open community",
-    "stars": 2206,
+    "stars": 2209,
     "language": "C",
     "category": "Network / ONVIF / IP Cameras",
     "topics": [
@@ -1074,7 +1084,7 @@
       "xm",
       "zftlab"
     ],
-    "updated_at": "2026-09-21T14:15:12Z"
+    "updated_at": "2026-09-23T07:31:14Z"
   },
   {
     "name": "vzakharchenko/rtsp-samsung-tv",
@@ -1155,7 +1165,7 @@
     "name": "0PandaDEV/awesome-windows",
     "url": "https://github.com/0PandaDEV/awesome-windows",
     "description": "An awesome & curated list of tools and apps for Windows 10/11.",
-    "stars": 2900,
+    "stars": 2902,
     "language": "Unknown",
     "category": "System Tools",
     "topics": [
@@ -1164,13 +1174,13 @@
       "microsoft",
       "windows"
     ],
-    "updated_at": "2026-09-22T06:39:27Z"
+    "updated_at": "2026-09-22T18:22:17Z"
   },
   {
     "name": "awesome-selfhosted/awesome-selfhosted",
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
     "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
-    "stars": 320928,
+    "stars": 321179,
     "language": "Unknown",
     "category": "Other Interesting Tools",
     "topics": [
@@ -1183,7 +1193,7 @@
       "self-hosted",
       "selfhosted"
     ],
-    "updated_at": "2026-09-22T10:33:22Z"
+    "updated_at": "2026-09-23T10:23:53Z"
   },
   {
     "name": "jmk-foofus/medusa",
@@ -1209,14 +1219,14 @@
     "name": "Acly/comfyui-tooling-nodes",
     "url": "https://github.com/Acly/comfyui-tooling-nodes",
     "description": "Nodes for using ComfyUI as a backend for external tools. Send and receive images directly without filesystem upload/download.",
-    "stars": 672,
+    "stars": 673,
     "language": "Python",
     "category": "Media / Audio / Video",
     "topics": [
       "comfyui",
       "stable-diffusion"
     ],
-    "updated_at": "2026-09-11T08:39:45Z"
+    "updated_at": "2026-09-23T02:33:21Z"
   },
   {
     "name": "Acly/krita-vision-tools",
@@ -1241,7 +1251,7 @@
       "vlc",
       "vlc-player"
     ],
-    "updated_at": "2026-09-22T07:22:39Z"
+    "updated_at": "2026-09-23T06:53:30Z"
   },
   {
     "name": "BiltuDas1/unlock-Bootloader",
@@ -1310,7 +1320,7 @@
     "name": "yt-dlp/yt-dlp",
     "url": "https://github.com/yt-dlp/yt-dlp",
     "description": "A feature-rich command-line audio/video downloader",
-    "stars": 192820,
+    "stars": 193103,
     "language": "Python",
     "category": "Media / Audio / Video",
     "topics": [
@@ -1322,17 +1332,17 @@
       "youtube-downloader",
       "yt-dlp"
     ],
-    "updated_at": "2026-09-22T10:30:12Z"
+    "updated_at": "2026-09-23T10:24:53Z"
   },
   {
     "name": "testanull/MS-SharePoint-July-Patch-RCE-PoC",
     "url": "https://github.com/testanull/MS-SharePoint-July-Patch-RCE-PoC",
     "description": "No description",
-    "stars": 159,
+    "stars": 158,
     "language": "Python",
     "category": "Development / Coding",
     "topics": [],
-    "updated_at": "2026-09-17T02:58:22Z"
+    "updated_at": "2026-09-23T05:29:39Z"
   },
   {
     "name": "nicsure/wireguard-ui",
@@ -1385,11 +1395,11 @@
     "name": "vanhoefm/fragattacks",
     "url": "https://github.com/vanhoefm/fragattacks",
     "description": "No description",
-    "stars": 1318,
+    "stars": 1319,
     "language": "C",
     "category": "Other Interesting Tools",
     "topics": [],
-    "updated_at": "2026-09-19T17:03:17Z"
+    "updated_at": "2026-09-22T11:31:18Z"
   },
   {
     "name": "vanhoefm/krackattacks-scripts",
@@ -1405,7 +1415,7 @@
     "name": "openrecall/openrecall",
     "url": "https://github.com/openrecall/openrecall",
     "description": "OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft's Windows Recall. With OpenRecall, you can easily access your digital history, enhancing your memory and productivity without compromising your privacy.",
-    "stars": 2943,
+    "stars": 2946,
     "language": "Python",
     "category": "System Tools",
     "topics": [
@@ -1423,13 +1433,13 @@
       "semantic",
       "windows"
     ],
-    "updated_at": "2026-09-19T12:44:29Z"
+    "updated_at": "2026-09-22T17:34:09Z"
   },
   {
     "name": "Y2Z/monolith",
     "url": "https://github.com/Y2Z/monolith",
     "description": "⬛️ CLI tool and library for saving complete web pages as a single HTML file",
-    "stars": 15491,
+    "stars": 15493,
     "language": "Rust",
     "category": "Development / Coding",
     "topics": [
@@ -1442,13 +1452,13 @@
       "save-the-internet",
       "tab-rehab"
     ],
-    "updated_at": "2026-09-22T06:16:11Z"
+    "updated_at": "2026-09-23T08:38:53Z"
   },
   {
     "name": "docker/awesome-compose",
     "url": "https://github.com/docker/awesome-compose",
     "description": "Awesome Docker Compose samples",
-    "stars": 46388,
+    "stars": 46397,
     "language": "HTML",
     "category": "Other Interesting Tools",
     "topics": [
@@ -1456,7 +1466,7 @@
       "awesome-list",
       "docker-compose"
     ],
-    "updated_at": "2026-09-22T09:13:22Z"
+    "updated_at": "2026-09-23T06:29:11Z"
   },
   {
     "name": "hexagonal-sun/ampkt",
@@ -1515,7 +1525,7 @@
     "name": "louislam/uptime-kuma",
     "url": "https://github.com/louislam/uptime-kuma",
     "description": "A fancy self-hosted monitoring tool",
-    "stars": 91668,
+    "stars": 91717,
     "language": "JavaScript",
     "category": "Development / Coding",
     "topics": [
@@ -1532,7 +1542,7 @@
       "webapp",
       "websocket"
     ],
-    "updated_at": "2026-09-22T09:52:12Z"
+    "updated_at": "2026-09-23T10:24:35Z"
   },
   {
     "name": "EliasKotlyar/Xiaomi-Dafang-Hacks",
@@ -1558,7 +1568,7 @@
     "name": "Astrosp/Awesome-OSINT-List",
     "url": "https://github.com/Astrosp/Awesome-OSINT-List",
     "description": "📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.",
-    "stars": 4451,
+    "stars": 4455,
     "language": "Shell",
     "category": "Security / Hacking",
     "topics": [
@@ -1576,7 +1586,7 @@
       "security-tools",
       "threat-intelligence"
     ],
-    "updated_at": "2026-09-22T03:12:34Z"
+    "updated_at": "2026-09-23T05:28:03Z"
   },
   {
     "name": "chrisk44/Hijacker",
@@ -1601,7 +1611,7 @@
     "name": "zacharee/Bifrost",
     "url": "https://github.com/zacharee/Bifrost",
     "description": "Cross-platform tool for downloading Samsung mobile device firmware.",
-    "stars": 1605,
+    "stars": 1606,
     "language": "Kotlin",
     "category": "Other Interesting Tools",
     "topics": [
@@ -1610,7 +1620,7 @@
       "kotlin-multiplatform",
       "samsung"
     ],
-    "updated_at": "2026-09-22T07:29:59Z"
+    "updated_at": "2026-09-22T11:12:59Z"
   },
   {
     "name": "arter97/android_kernel_oneplus_msm8998",
@@ -1626,7 +1636,7 @@
     "name": "BatchDrake/SigDigger",
     "url": "https://github.com/BatchDrake/SigDigger",
     "description": "Qt-based digital signal analyzer, using Suscan core and Sigutils DSP library",
-    "stars": 2898,
+    "stars": 2899,
     "language": "C++",
     "category": "Termux / Android Linux",
     "topics": [
@@ -1640,13 +1650,13 @@
       "sdr",
       "soapysdr"
     ],
-    "updated_at": "2026-09-21T00:31:23Z"
+    "updated_at": "2026-09-23T07:29:32Z"
   },
   {
     "name": "lucasg/Dependencies",
     "url": "https://github.com/lucasg/Dependencies",
     "description": "A rewrite of the old legacy software \"depends.exe\" in C# for Windows devs to troubleshoot dll load dependencies issues.",
-    "stars": 11850,
+    "stars": 11852,
     "language": "C#",
     "category": "System Tools",
     "topics": [
@@ -1655,7 +1665,7 @@
       "windows",
       "wpf"
     ],
-    "updated_at": "2026-09-22T08:04:48Z"
+    "updated_at": "2026-09-23T08:09:53Z"
   },
   {
     "name": "pizi-0/flutter-scrcpygui-companion",
@@ -1671,7 +1681,7 @@
     "name": "Devolutions/UniGetUI",
     "url": "https://github.com/Devolutions/UniGetUI",
     "description": "UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers",
-    "stars": 26232,
+    "stars": 26246,
     "language": "C#",
     "category": "System Tools",
     "topics": [
@@ -1688,7 +1698,7 @@
       "windows-11",
       "winget"
     ],
-    "updated_at": "2026-09-22T09:31:16Z"
+    "updated_at": "2026-09-23T09:42:13Z"
   },
   {
     "name": "Incipiens/WindowsControlCenter",
@@ -1733,7 +1743,7 @@
     "name": "mohammadmahdi-termux/hackCCTV",
     "url": "https://github.com/mohammadmahdi-termux/hackCCTV",
     "description": "Hackcctv",
-    "stars": 339,
+    "stars": 340,
     "language": "Python",
     "category": "Network / ONVIF / IP Cameras",
     "topics": [
@@ -1750,7 +1760,7 @@
       "python",
       "termux"
     ],
-    "updated_at": "2026-09-20T20:26:41Z"
+    "updated_at": "2026-09-22T17:05:13Z"
   },
   {
     "name": "DISTRHO/Cardinal",
@@ -1773,7 +1783,7 @@
     "name": "Dreamlinerm/Netflix-Prime-Auto-Skip",
     "url": "https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip",
     "description": "Automatically skip Ads, Intros, Credits, etc. on all major Streaming services",
-    "stars": 596,
+    "stars": 598,
     "language": "JavaScript",
     "category": "Termux / Android Linux",
     "topics": [
@@ -1796,17 +1806,17 @@
       "primevideo",
       "webextension"
     ],
-    "updated_at": "2026-09-21T20:11:48Z"
+    "updated_at": "2026-09-23T03:45:46Z"
   },
   {
     "name": "permissionlesstech/bitchat-android",
     "url": "https://github.com/permissionlesstech/bitchat-android",
     "description": "decentralized mesh chat",
-    "stars": 7649,
+    "stars": 7650,
     "language": "Kotlin",
     "category": "Termux / Android Linux",
     "topics": [],
-    "updated_at": "2026-09-22T03:19:39Z"
+    "updated_at": "2026-09-23T00:53:38Z"
   },
   {
     "name": "shadps4-emu/shadPS4-launcher",
@@ -1852,7 +1862,7 @@
     "name": "immich-app/immich",
     "url": "https://github.com/immich-app/immich",
     "description": "High performance self-hosted photo and video management solution.",
-    "stars": 114788,
+    "stars": 114863,
     "language": "TypeScript",
     "category": "Media / Audio / Video",
     "topics": [
@@ -1873,7 +1883,7 @@
       "typescript",
       "videos"
     ],
-    "updated_at": "2026-09-22T10:33:53Z"
+    "updated_at": "2026-09-23T10:24:49Z"
   },
   {
     "name": "bkerler/Loaders",
@@ -1889,7 +1899,7 @@
     "name": "edk2-porting/edk2-msm",
     "url": "https://github.com/edk2-porting/edk2-msm",
     "description": "Broken edk2 port for Qualcomm platforms xD",
-    "stars": 2585,
+    "stars": 2586,
     "language": "ASL",
     "category": "System Tools",
     "topics": [
@@ -1900,7 +1910,7 @@
       "uefi-firmware",
       "windows-on-arm"
     ],
-    "updated_at": "2026-09-20T10:05:35Z"
+    "updated_at": "2026-09-22T10:54:22Z"
   },
   {
     "name": "anvaka/map-of-github",
@@ -1920,23 +1930,23 @@
     "language": "Python",
     "category": "Development / Coding",
     "topics": [],
-    "updated_at": "2026-09-22T03:14:09Z"
+    "updated_at": "2026-09-23T05:25:51Z"
   },
   {
     "name": "jaakkopasanen/AutoEq",
     "url": "https://github.com/jaakkopasanen/AutoEq",
     "description": "Automatic headphone equalization from frequency responses",
-    "stars": 16260,
+    "stars": 16266,
     "language": "Python",
     "category": "Development / Coding",
     "topics": [],
-    "updated_at": "2026-09-22T04:27:09Z"
+    "updated_at": "2026-09-23T09:14:10Z"
   },
   {
     "name": "dylanaraps/pure-bash-bible",
     "url": "https://github.com/dylanaraps/pure-bash-bible",
     "description": "📖 A collection of pure bash alternatives to external processes.",
-    "stars": 41714,
+    "stars": 41712,
     "language": "Shell",
     "category": "Termux / Android Linux",
     "topics": [
@@ -1953,7 +1963,7 @@
       "shell",
       "shell-scripts"
     ],
-    "updated_at": "2026-09-21T19:10:44Z"
+    "updated_at": "2026-09-22T18:59:56Z"
   },
   {
     "name": "noahbliss/Viper4Linux",
@@ -2034,11 +2044,11 @@
     "name": "facebookresearch/DensePose",
     "url": "https://github.com/facebookresearch/DensePose",
     "description": "A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body",
-    "stars": 7258,
+    "stars": 7259,
     "language": "Jupyter Notebook",
     "category": "Media / Audio / Video",
     "topics": [],
-    "updated_at": "2026-09-18T06:50:26Z"
+    "updated_at": "2026-09-22T20:14:54Z"
   },
   {
     "name": "K3V1991/ADB-and-FastbootPlusPlus",
@@ -2088,14 +2098,14 @@
     "name": "webosbrew/webos-homebrew-channel",
     "url": "https://github.com/webosbrew/webos-homebrew-channel",
     "description": "Unofficial webOS TV homebrew store and root-related tooling",
-    "stars": 1402,
+    "stars": 1404,
     "language": "JavaScript",
     "category": "Development / Coding",
     "topics": [
       "enyo",
       "webos"
     ],
-    "updated_at": "2026-09-22T09:44:28Z"
+    "updated_at": "2026-09-23T00:46:03Z"
   },
   {
     "name": "maaaaz/smbmap",
@@ -2111,7 +2121,7 @@
     "name": "Hack-with-Github/Awesome-Hacking",
     "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
     "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
-    "stars": 120959,
+    "stars": 121030,
     "language": "Unknown",
     "category": "Security / Hacking",
     "topics": [
@@ -2125,13 +2135,13 @@
       "reverse-engineering",
       "security"
     ],
-    "updated_at": "2026-09-22T10:30:47Z"
+    "updated_at": "2026-09-23T10:01:10Z"
   },
   {
     "name": "yuliskov/SmartTube",
     "url": "https://github.com/yuliskov/SmartTube",
     "description": "Browse media content with your own rules on Android TV",
-    "stars": 33994,
+    "stars": 34042,
     "language": "Java",
     "category": "Termux / Android Linux",
     "topics": [
@@ -2143,13 +2153,13 @@
       "retrofit2",
       "rxjava-android"
     ],
-    "updated_at": "2026-09-22T10:34:15Z"
+    "updated_at": "2026-09-23T10:27:10Z"
   },
   {
     "name": "AlexxIT/SonoffLAN",
     "url": "https://github.com/AlexxIT/SonoffLAN",
     "description": "Control Sonoff Devices with eWeLink (original) firmware over LAN and/or Cloud from Home Assistant",
-    "stars": 3311,
+    "stars": 3312,
     "language": "Python",
     "category": "Development / Coding",
     "topics": [
@@ -2158,7 +2168,7 @@
       "home-assistant",
       "sonoff"
     ],
-    "updated_at": "2026-09-22T09:23:13Z"
+    "updated_at": "2026-09-23T09:12:38Z"
   },
   {
     "name": "stephane-r/HoloPlay",
@@ -2218,7 +2228,7 @@
     "name": "firecracker-microvm/firecracker",
     "url": "https://github.com/firecracker-microvm/firecracker",
     "description": "Secure and fast microVMs for serverless computing.",
-    "stars": 36869,
+    "stars": 36891,
     "language": "Rust",
     "category": "Development / Coding",
     "topics": [
@@ -2232,7 +2242,7 @@
       "virtual-machine",
       "virtualization"
     ],
-    "updated_at": "2026-09-22T10:27:54Z"
+    "updated_at": "2026-09-23T10:21:37Z"
   },
   {
     "name": "adde88/openwrt-useful-tools",
@@ -2289,7 +2299,7 @@
     "name": "xbmc/xbmc",
     "url": "https://github.com/xbmc/xbmc",
     "description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.",
-    "stars": 21241,
+    "stars": 21245,
     "language": "C++",
     "category": "Termux / Android Linux",
     "topics": [
@@ -2311,7 +2321,7 @@
       "xbmc",
       "xml"
     ],
-    "updated_at": "2026-09-22T09:59:31Z"
+    "updated_at": "2026-09-23T09:03:08Z"
   },
   {
     "name": "brannondorsey/mitm-router",
@@ -2336,17 +2346,17 @@
     "name": "ArmisSecurity/blueborne",
     "url": "https://github.com/ArmisSecurity/blueborne",
     "description": "PoC scripts demonstrating the BlueBorne vulnerabilities",
-    "stars": 617,
+    "stars": 616,
     "language": "Python",
     "category": "Security / Hacking",
     "topics": [],
-    "updated_at": "2026-09-21T12:52:55Z"
+    "updated_at": "2026-09-23T05:26:14Z"
   },
   {
     "name": "seemoo-lab/nexmon",
     "url": "https://github.com/seemoo-lab/nexmon",
     "description": "The C-based Firmware Patching Framework for Broadcom/Cypress WiFi Chips that enables Monitor Mode, Frame Injection and much more",
-    "stars": 2889,
+    "stars": 2888,
     "language": "C",
     "category": "Security / Hacking",
     "topics": [
@@ -2358,13 +2368,13 @@
       "rpi",
       "smartphone"
     ],
-    "updated_at": "2026-09-21T01:04:22Z"
+    "updated_at": "2026-09-22T22:51:03Z"
   },
   {
     "name": "abishekvashok/cmatrix",
     "url": "https://github.com/abishekvashok/cmatrix",
     "description": "Terminal based \"The Matrix\" like implementation",
-    "stars": 5253,
+    "stars": 5255,
     "language": "C",
     "category": "Other Interesting Tools",
     "topics": [
@@ -2372,7 +2382,7 @@
       "matrix",
       "screensaver"
     ],
-    "updated_at": "2026-09-22T07:45:26Z"
+    "updated_at": "2026-09-22T17:59:06Z"
   },
   {
     "name": "jkush321/dSploitScripts",
@@ -2422,7 +2432,7 @@
     "name": "Disassembler0/Win10-Initial-Setup-Script",
     "url": "https://github.com/Disassembler0/Win10-Initial-Setup-Script",
     "description": "PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019",
-    "stars": 4640,
+    "stars": 4639,
     "language": "PowerShell",
     "category": "Termux / Android Linux",
     "topics": [
@@ -2434,7 +2444,7 @@
       "windows-server-2016",
       "windows-server-2019"
     ],
-    "updated_at": "2026-09-21T12:10:43Z"
+    "updated_at": "2026-09-23T05:25:55Z"
   },
   {
     "name": "brompwnie/uitkyk",
